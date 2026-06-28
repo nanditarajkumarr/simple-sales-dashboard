@@ -1,0 +1,1096 @@
+﻿Date,Month,Region,State,Salesperson,Customer,Product,Category,Units,Unit Price,Sales,Cost,Profit,Channel,Target,Returned
+1/1/2025,January,South,Karnataka,Karan,Cust604,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Retail,198000.00,No
+1/1/2025,January,South,Tamil Nadu,Priya,Cust969,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+1/1/2025,January,South,Tamil Nadu,Neha,Cust477,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Online,643500.00,No
+1/2/2025,January,South,Tamil Nadu,Asha,Cust154,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Retail,26400.00,No
+1/2/2025,January,South,Karnataka,Priya,Cust282,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Online,858000.00,No
+1/2/2025,January,South,Tamil Nadu,Priya,Cust255,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Retail,19800.00,No
+1/3/2025,January,East,West Bengal,Priya,Cust465,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Distributor,132000.00,No
+1/3/2025,January,South,Tamil Nadu,Arun,Cust659,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Retail,39600.00,No
+1/3/2025,January,South,Karnataka,Priya,Cust959,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Retail,82500.00,No
+1/4/2025,January,South,Karnataka,Karan,Cust815,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Online,38500.00,No
+1/4/2025,January,North,Delhi,Arun,Cust225,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Distributor,132000.00,No
+1/4/2025,January,East,West Bengal,Karan,Cust748,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Retail,77000.00,No
+1/5/2025,January,East,West Bengal,Karan,Cust399,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Online,30800.00,No
+1/5/2025,January,East,West Bengal,Karan,Cust380,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+1/5/2025,January,South,Karnataka,Karan,Cust949,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Distributor,53900.00,No
+1/6/2025,January,East,West Bengal,Vijay,Cust202,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Distributor,7700.00,No
+1/6/2025,January,South,Karnataka,Rahul,Cust561,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Retail,77000.00,No
+1/6/2025,January,South,Karnataka,Karan,Cust192,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+1/7/2025,January,North,Delhi,Meera,Cust419,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Retail,77000.00,No
+1/7/2025,January,West,Maharashtra,Vijay,Cust760,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Online,132000.00,No
+1/7/2025,January,West,Maharashtra,Priya,Cust171,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Distributor,198000.00,No
+1/8/2025,January,South,Tamil Nadu,Arun,Cust353,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Retail,158400.00,No
+1/8/2025,January,South,Tamil Nadu,Asha,Cust512,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+1/8/2025,January,North,Delhi,Arun,Cust679,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Online,71500.00,No
+1/9/2025,January,South,Tamil Nadu,Meera,Cust228,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Online,49500.00,No
+1/9/2025,January,West,Maharashtra,Arun,Cust480,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Distributor,715000.00,No
+1/9/2025,January,North,Delhi,Karan,Cust911,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Online,178200.00,No
+1/10/2025,January,South,Tamil Nadu,Arun,Cust543,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Online,52800.00,No
+1/10/2025,January,South,Tamil Nadu,Priya,Cust800,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Retail,181500.00,No
+1/10/2025,January,South,Tamil Nadu,Neha,Cust731,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Online,178200.00,No
+1/11/2025,January,West,Maharashtra,Neha,Cust367,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Retail,92400.00,No
+1/11/2025,January,North,Delhi,Vijay,Cust996,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Online,786500.00,No
+1/11/2025,January,South,Karnataka,Asha,Cust869,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Retail,66000.00,No
+1/12/2025,January,West,Maharashtra,Rahul,Cust516,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Distributor,715000.00,No
+1/12/2025,January,East,West Bengal,Asha,Cust232,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Retail,786500.00,No
+1/12/2025,January,West,Maharashtra,Priya,Cust750,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Retail,69300.00,No
+1/13/2025,January,East,West Bengal,Karan,Cust105,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Retail,66000.00,No
+1/13/2025,January,North,Delhi,Asha,Cust352,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Online,77000.00,No
+1/13/2025,January,North,Delhi,Arun,Cust442,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+1/14/2025,January,South,Tamil Nadu,Karan,Cust677,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,No
+1/14/2025,January,North,Delhi,Neha,Cust231,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Online,82500.00,No
+1/14/2025,January,East,West Bengal,Asha,Cust101,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Online,858000.00,Yes
+1/15/2025,January,South,Karnataka,Rahul,Cust859,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Online,15400.00,No
+1/15/2025,January,South,Tamil Nadu,Neha,Cust755,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Online,786500.00,No
+1/15/2025,January,South,Tamil Nadu,Rahul,Cust826,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Retail,61600.00,No
+1/16/2025,January,East,West Bengal,Priya,Cust593,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Distributor,118800.00,No
+1/16/2025,January,North,Delhi,Vijay,Cust814,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Online,16500.00,No
+1/16/2025,January,North,Delhi,Priya,Cust315,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Online,145200.00,No
+1/17/2025,January,South,Tamil Nadu,Asha,Cust706,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Retail,572000.00,No
+1/17/2025,January,North,Delhi,Asha,Cust321,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Retail,429000.00,No
+1/17/2025,January,North,Delhi,Priya,Cust709,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Retail,715000.00,No
+1/18/2025,January,West,Maharashtra,Asha,Cust162,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Distributor,46200.00,No
+1/18/2025,January,North,Delhi,Priya,Cust820,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Online,181500.00,No
+1/18/2025,January,West,Maharashtra,Neha,Cust753,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Retail,92400.00,No
+1/19/2025,January,South,Karnataka,Priya,Cust256,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Online,66000.00,No
+1/19/2025,January,East,West Bengal,Arun,Cust991,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Distributor,99000.00,No
+1/19/2025,January,North,Delhi,Karan,Cust662,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Distributor,198000.00,No
+1/20/2025,January,South,Karnataka,Vijay,Cust768,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Retail,92400.00,No
+1/20/2025,January,West,Maharashtra,Priya,Cust666,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Distributor,115500.00,No
+1/20/2025,January,South,Karnataka,Neha,Cust221,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Online,59400.00,No
+1/21/2025,January,North,Delhi,Priya,Cust822,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Retail,198000.00,No
+1/21/2025,January,West,Maharashtra,Meera,Cust558,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Distributor,138600.00,No
+1/21/2025,January,South,Tamil Nadu,Rahul,Cust916,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Retail,158400.00,No
+1/22/2025,January,South,Tamil Nadu,Asha,Cust127,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Distributor,132000.00,No
+1/22/2025,January,South,Tamil Nadu,Karan,Cust359,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Distributor,30800.00,No
+1/22/2025,January,South,Tamil Nadu,Priya,Cust300,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Online,33000.00,No
+1/23/2025,January,South,Karnataka,Asha,Cust372,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Retail,53900.00,No
+1/23/2025,January,East,West Bengal,Vijay,Cust129,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Online,99000.00,No
+1/23/2025,January,West,Maharashtra,Rahul,Cust123,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Retail,158400.00,No
+1/24/2025,January,East,West Bengal,Arun,Cust633,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Online,148500.00,No
+1/24/2025,January,West,Maharashtra,Rahul,Cust958,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Distributor,66000.00,No
+1/24/2025,January,West,Maharashtra,Rahul,Cust642,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Online,132000.00,No
+1/25/2025,January,East,West Bengal,Arun,Cust790,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Online,178200.00,No
+1/25/2025,January,South,Tamil Nadu,Meera,Cust881,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Distributor,198000.00,No
+1/25/2025,January,East,West Bengal,Meera,Cust484,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Distributor,16500.00,No
+1/26/2025,January,South,Karnataka,Arun,Cust471,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+1/26/2025,January,South,Karnataka,Meera,Cust666,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Retail,181500.00,No
+1/26/2025,January,East,West Bengal,Karan,Cust767,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Retail,61600.00,No
+1/27/2025,January,West,Maharashtra,Rahul,Cust757,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Retail,52800.00,No
+1/27/2025,January,North,Delhi,Asha,Cust783,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Retail,99000.00,No
+1/27/2025,January,South,Karnataka,Karan,Cust492,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Retail,38500.00,No
+1/28/2025,January,North,Delhi,Priya,Cust827,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Online,15400.00,No
+1/28/2025,January,North,Delhi,Asha,Cust229,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Distributor,82500.00,No
+1/28/2025,January,North,Delhi,Priya,Cust813,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Distributor,16500.00,No
+1/29/2025,January,North,Delhi,Meera,Cust917,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Retail,132000.00,No
+1/29/2025,January,North,Delhi,Vijay,Cust182,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Online,132000.00,No
+1/29/2025,January,East,West Bengal,Priya,Cust877,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Online,39600.00,No
+1/30/2025,January,South,Karnataka,Vijay,Cust879,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Retail,643500.00,No
+1/30/2025,January,North,Delhi,Vijay,Cust371,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Distributor,7700.00,No
+1/30/2025,January,South,Tamil Nadu,Rahul,Cust241,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Online,118800.00,No
+1/31/2025,January,South,Tamil Nadu,Arun,Cust610,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Distributor,69300.00,No
+1/31/2025,January,South,Karnataka,Rahul,Cust824,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Distributor,715000.00,No
+1/31/2025,January,South,Karnataka,Rahul,Cust439,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Online,92400.00,No
+2/1/2025,February,East,West Bengal,Priya,Cust541,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Distributor,82500.00,No
+2/1/2025,February,West,Maharashtra,Neha,Cust932,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Distributor,84700.00,No
+2/1/2025,February,South,Tamil Nadu,Vijay,Cust324,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Retail,59400.00,No
+2/2/2025,February,East,West Bengal,Arun,Cust766,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Retail,165000.00,No
+2/2/2025,February,East,West Bengal,Arun,Cust583,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Online,429000.00,No
+2/2/2025,February,West,Maharashtra,Karan,Cust504,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Distributor,39600.00,No
+2/3/2025,February,South,Karnataka,Vijay,Cust582,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Online,92400.00,No
+2/3/2025,February,South,Tamil Nadu,Priya,Cust330,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Retail,178200.00,No
+2/3/2025,February,South,Karnataka,Arun,Cust626,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Distributor,237600.00,No
+2/4/2025,February,East,West Bengal,Karan,Cust599,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Distributor,715000.00,No
+2/4/2025,February,South,Tamil Nadu,Asha,Cust184,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Distributor,118800.00,No
+2/4/2025,February,South,Karnataka,Meera,Cust807,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Distributor,92400.00,No
+2/5/2025,February,North,Delhi,Rahul,Cust376,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Online,92400.00,No
+2/5/2025,February,North,Delhi,Arun,Cust384,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Retail,38500.00,No
+2/5/2025,February,South,Tamil Nadu,Priya,Cust454,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Online,77000.00,No
+2/6/2025,February,South,Karnataka,Asha,Cust461,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Distributor,59400.00,No
+2/6/2025,February,South,Tamil Nadu,Meera,Cust572,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+2/6/2025,February,South,Karnataka,Asha,Cust324,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Distributor,66000.00,Yes
+2/7/2025,February,West,Maharashtra,Vijay,Cust546,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+2/7/2025,February,South,Tamil Nadu,Neha,Cust502,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Retail,99000.00,No
+2/7/2025,February,West,Maharashtra,Priya,Cust759,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Online,23100.00,No
+2/8/2025,February,North,Delhi,Neha,Cust462,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Online,13200.00,No
+2/8/2025,February,South,Karnataka,Asha,Cust733,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Online,99000.00,No
+2/8/2025,February,West,Maharashtra,Rahul,Cust274,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Online,66000.00,No
+2/9/2025,February,East,West Bengal,Karan,Cust998,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Online,572000.00,No
+2/9/2025,February,South,Karnataka,Meera,Cust259,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Online,66000.00,No
+2/9/2025,February,South,Tamil Nadu,Rahul,Cust165,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Online,33000.00,No
+2/10/2025,February,East,West Bengal,Karan,Cust271,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Retail,49500.00,Yes
+2/10/2025,February,South,Tamil Nadu,Meera,Cust959,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Online,429000.00,No
+2/10/2025,February,East,West Bengal,Asha,Cust887,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+2/11/2025,February,North,Delhi,Priya,Cust263,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+2/11/2025,February,South,Tamil Nadu,Meera,Cust418,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Retail,61600.00,No
+2/11/2025,February,East,West Bengal,Meera,Cust718,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Online,145200.00,No
+2/12/2025,February,West,Maharashtra,Neha,Cust374,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+2/12/2025,February,South,Tamil Nadu,Meera,Cust368,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Retail,19800.00,No
+2/12/2025,February,West,Maharashtra,Meera,Cust876,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Retail,158400.00,No
+2/13/2025,February,South,Karnataka,Priya,Cust829,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Distributor,49500.00,No
+2/13/2025,February,East,West Bengal,Vijay,Cust958,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Distributor,69300.00,Yes
+2/13/2025,February,East,West Bengal,Neha,Cust727,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Distributor,92400.00,No
+2/14/2025,February,South,Tamil Nadu,Rahul,Cust629,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Online,79200.00,No
+2/14/2025,February,North,Delhi,Arun,Cust313,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Distributor,15400.00,No
+2/14/2025,February,North,Delhi,Asha,Cust187,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Online,59400.00,No
+2/15/2025,February,South,Tamil Nadu,Priya,Cust498,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Retail,23100.00,No
+2/15/2025,February,West,Maharashtra,Rahul,Cust319,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Online,118800.00,No
+2/15/2025,February,North,Delhi,Rahul,Cust315,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Distributor,132000.00,No
+2/16/2025,February,North,Delhi,Rahul,Cust984,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Distributor,39600.00,No
+2/16/2025,February,South,Karnataka,Karan,Cust297,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Distributor,39600.00,No
+2/16/2025,February,South,Tamil Nadu,Rahul,Cust873,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Online,30800.00,No
+2/17/2025,February,South,Tamil Nadu,Arun,Cust321,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Distributor,429000.00,No
+2/17/2025,February,West,Maharashtra,Karan,Cust114,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Online,237600.00,No
+2/17/2025,February,East,West Bengal,Arun,Cust147,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Distributor,79200.00,No
+2/18/2025,February,South,Tamil Nadu,Asha,Cust553,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+2/18/2025,February,North,Delhi,Neha,Cust366,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Retail,71500.00,No
+2/18/2025,February,South,Karnataka,Arun,Cust952,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Distributor,7700.00,No
+2/19/2025,February,East,West Bengal,Karan,Cust104,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Retail,165000.00,No
+2/19/2025,February,West,Maharashtra,Arun,Cust210,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Online,49500.00,Yes
+2/19/2025,February,West,Maharashtra,Neha,Cust765,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Online,15400.00,No
+2/20/2025,February,East,West Bengal,Asha,Cust815,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+2/20/2025,February,East,West Bengal,Neha,Cust548,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Retail,39600.00,No
+2/20/2025,February,South,Karnataka,Rahul,Cust398,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Distributor,53900.00,No
+2/21/2025,February,South,Tamil Nadu,Asha,Cust107,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Retail,99000.00,Yes
+2/21/2025,February,East,West Bengal,Priya,Cust466,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Online,118800.00,No
+2/21/2025,February,North,Delhi,Priya,Cust879,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Online,715000.00,No
+2/22/2025,February,South,Tamil Nadu,Vijay,Cust948,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Distributor,145200.00,No
+2/22/2025,February,West,Maharashtra,Priya,Cust224,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Retail,429000.00,No
+2/22/2025,February,East,West Bengal,Asha,Cust115,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Online,165000.00,No
+2/23/2025,February,South,Karnataka,Asha,Cust439,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Retail,15400.00,No
+2/23/2025,February,South,Karnataka,Neha,Cust904,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Online,79200.00,No
+2/23/2025,February,West,Maharashtra,Meera,Cust653,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Online,82500.00,No
+2/24/2025,February,South,Karnataka,Rahul,Cust601,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Distributor,53900.00,No
+2/24/2025,February,South,Tamil Nadu,Arun,Cust595,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Retail,158400.00,No
+2/24/2025,February,West,Maharashtra,Karan,Cust784,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Retail,84700.00,No
+2/25/2025,February,West,Maharashtra,Vijay,Cust118,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Retail,158400.00,No
+2/25/2025,February,South,Karnataka,Karan,Cust627,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Online,217800.00,No
+2/25/2025,February,East,West Bengal,Rahul,Cust642,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Retail,69300.00,No
+2/26/2025,February,South,Karnataka,Karan,Cust718,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Distributor,132000.00,No
+2/26/2025,February,West,Maharashtra,Arun,Cust718,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Distributor,572000.00,No
+2/26/2025,February,South,Karnataka,Meera,Cust647,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Distributor,237600.00,No
+2/27/2025,February,East,West Bengal,Priya,Cust210,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Online,786500.00,No
+2/27/2025,February,South,Karnataka,Priya,Cust648,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+2/27/2025,February,South,Tamil Nadu,Rahul,Cust546,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Retail,158400.00,No
+2/28/2025,February,South,Karnataka,Vijay,Cust434,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Distributor,39600.00,Yes
+2/28/2025,February,North,Delhi,Neha,Cust435,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Distributor,84700.00,No
+2/28/2025,February,North,Delhi,Karan,Cust433,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Distributor,138600.00,No
+3/1/2025,March,East,West Bengal,Asha,Cust693,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Distributor,99000.00,No
+3/1/2025,March,South,Karnataka,Karan,Cust640,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Distributor,643500.00,No
+3/1/2025,March,East,West Bengal,Priya,Cust749,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Online,643500.00,Yes
+3/2/2025,March,East,West Bengal,Karan,Cust898,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Online,214500.00,No
+3/2/2025,March,North,Delhi,Meera,Cust449,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Retail,99000.00,No
+3/2/2025,March,East,West Bengal,Neha,Cust632,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Distributor,132000.00,No
+3/3/2025,March,West,Maharashtra,Vijay,Cust750,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Distributor,572000.00,No
+3/3/2025,March,North,Delhi,Asha,Cust627,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Distributor,99000.00,No
+3/3/2025,March,West,Maharashtra,Rahul,Cust942,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Online,115500.00,No
+3/4/2025,March,South,Karnataka,Rahul,Cust522,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Distributor,16500.00,No
+3/4/2025,March,North,Delhi,Neha,Cust368,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Online,19800.00,No
+3/4/2025,March,West,Maharashtra,Karan,Cust144,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+3/5/2025,March,South,Karnataka,Karan,Cust735,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Distributor,66000.00,No
+3/5/2025,March,South,Tamil Nadu,Priya,Cust345,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Retail,66000.00,No
+3/5/2025,March,East,West Bengal,Neha,Cust985,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Online,148500.00,No
+3/6/2025,March,North,Delhi,Meera,Cust564,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Online,15400.00,No
+3/6/2025,March,North,Delhi,Karan,Cust573,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Distributor,198000.00,No
+3/6/2025,March,South,Karnataka,Neha,Cust408,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Distributor,13200.00,No
+3/7/2025,March,West,Maharashtra,Asha,Cust575,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Retail,84700.00,No
+3/7/2025,March,West,Maharashtra,Vijay,Cust630,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Online,165000.00,No
+3/7/2025,March,North,Delhi,Meera,Cust595,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Distributor,79200.00,No
+3/8/2025,March,East,West Bengal,Meera,Cust560,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Distributor,118800.00,No
+3/8/2025,March,West,Maharashtra,Asha,Cust822,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Online,92400.00,No
+3/8/2025,March,South,Tamil Nadu,Arun,Cust158,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+3/9/2025,March,West,Maharashtra,Priya,Cust200,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Online,66000.00,Yes
+3/9/2025,March,South,Tamil Nadu,Rahul,Cust228,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Online,30800.00,No
+3/9/2025,March,South,Tamil Nadu,Neha,Cust374,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Online,39600.00,No
+3/10/2025,March,South,Karnataka,Priya,Cust965,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Online,158400.00,No
+3/10/2025,March,East,West Bengal,Karan,Cust412,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Retail,13200.00,No
+3/10/2025,March,West,Maharashtra,Karan,Cust316,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Distributor,357500.00,No
+3/11/2025,March,North,Delhi,Vijay,Cust687,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Retail,132000.00,No
+3/11/2025,March,East,West Bengal,Karan,Cust569,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Distributor,30800.00,No
+3/11/2025,March,South,Karnataka,Asha,Cust797,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Online,214500.00,No
+3/12/2025,March,South,Tamil Nadu,Neha,Cust508,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Retail,53900.00,No
+3/12/2025,March,South,Karnataka,Neha,Cust106,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Distributor,16500.00,No
+3/12/2025,March,North,Delhi,Asha,Cust307,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Retail,118800.00,No
+3/13/2025,March,West,Maharashtra,Karan,Cust395,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Distributor,214500.00,No
+3/13/2025,March,North,Delhi,Asha,Cust111,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Distributor,33000.00,No
+3/13/2025,March,East,West Bengal,Priya,Cust641,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Retail,33000.00,No
+3/14/2025,March,West,Maharashtra,Neha,Cust765,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+3/14/2025,March,South,Karnataka,Rahul,Cust940,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Distributor,79200.00,No
+3/14/2025,March,West,Maharashtra,Vijay,Cust979,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+3/15/2025,March,South,Karnataka,Rahul,Cust204,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Online,13200.00,No
+3/15/2025,March,South,Tamil Nadu,Meera,Cust297,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+3/15/2025,March,South,Karnataka,Priya,Cust662,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Retail,71500.00,No
+3/16/2025,March,North,Delhi,Arun,Cust380,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Retail,217800.00,No
+3/16/2025,March,West,Maharashtra,Karan,Cust135,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+3/16/2025,March,South,Karnataka,Neha,Cust527,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Distributor,79200.00,No
+3/17/2025,March,South,Tamil Nadu,Meera,Cust961,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Distributor,92400.00,No
+3/17/2025,March,East,West Bengal,Asha,Cust630,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Distributor,38500.00,No
+3/17/2025,March,South,Karnataka,Rahul,Cust183,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+3/18/2025,March,East,West Bengal,Vijay,Cust416,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Online,92400.00,No
+3/18/2025,March,South,Tamil Nadu,Karan,Cust663,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Online,715000.00,No
+3/18/2025,March,North,Delhi,Asha,Cust699,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Online,33000.00,No
+3/19/2025,March,East,West Bengal,Neha,Cust309,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+3/19/2025,March,West,Maharashtra,Priya,Cust870,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Online,84700.00,No
+3/19/2025,March,East,West Bengal,Meera,Cust726,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Distributor,158400.00,No
+3/20/2025,March,South,Tamil Nadu,Rahul,Cust140,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+3/20/2025,March,South,Tamil Nadu,Arun,Cust866,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Online,217800.00,No
+3/20/2025,March,North,Delhi,Asha,Cust776,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Online,33000.00,Yes
+3/21/2025,March,North,Delhi,Rahul,Cust310,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Distributor,79200.00,No
+3/21/2025,March,West,Maharashtra,Neha,Cust494,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Online,643500.00,No
+3/21/2025,March,North,Delhi,Priya,Cust303,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Online,138600.00,No
+3/22/2025,March,North,Delhi,Vijay,Cust328,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Distributor,145200.00,No
+3/22/2025,March,South,Tamil Nadu,Karan,Cust869,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Online,77000.00,No
+3/22/2025,March,North,Delhi,Meera,Cust381,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Retail,178200.00,No
+3/23/2025,March,North,Delhi,Neha,Cust692,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Distributor,158400.00,Yes
+3/23/2025,March,North,Delhi,Karan,Cust237,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Online,19800.00,Yes
+3/23/2025,March,South,Karnataka,Arun,Cust467,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Online,118800.00,No
+3/24/2025,March,East,West Bengal,Rahul,Cust636,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Online,217800.00,No
+3/24/2025,March,East,West Bengal,Karan,Cust646,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Online,198000.00,No
+3/24/2025,March,East,West Bengal,Rahul,Cust750,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Distributor,52800.00,No
+3/25/2025,March,West,Maharashtra,Karan,Cust611,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Retail,99000.00,No
+3/25/2025,March,South,Tamil Nadu,Karan,Cust684,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Online,143000.00,Yes
+3/25/2025,March,North,Delhi,Asha,Cust234,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Online,99000.00,No
+3/26/2025,March,West,Maharashtra,Asha,Cust793,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Distributor,46200.00,No
+3/26/2025,March,East,West Bengal,Neha,Cust735,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Online,99000.00,No
+3/26/2025,March,East,West Bengal,Asha,Cust856,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Retail,99000.00,No
+3/27/2025,March,East,West Bengal,Karan,Cust960,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Distributor,643500.00,No
+3/27/2025,March,South,Tamil Nadu,Karan,Cust590,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Online,178200.00,Yes
+3/27/2025,March,South,Karnataka,Priya,Cust944,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Distributor,429000.00,No
+3/28/2025,March,East,West Bengal,Neha,Cust923,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Online,132000.00,No
+3/28/2025,March,North,Delhi,Rahul,Cust116,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Retail,138600.00,No
+3/28/2025,March,South,Tamil Nadu,Arun,Cust193,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Retail,143000.00,No
+3/29/2025,March,South,Tamil Nadu,Karan,Cust689,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Retail,572000.00,No
+3/29/2025,March,North,Delhi,Priya,Cust975,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Online,13200.00,No
+3/29/2025,March,West,Maharashtra,Neha,Cust233,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Distributor,99000.00,No
+3/30/2025,March,East,West Bengal,Arun,Cust139,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Distributor,158400.00,No
+3/30/2025,March,South,Tamil Nadu,Neha,Cust197,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Distributor,429000.00,No
+3/30/2025,March,East,West Bengal,Vijay,Cust682,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+3/31/2025,March,East,West Bengal,Karan,Cust649,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Retail,99000.00,No
+3/31/2025,March,South,Karnataka,Rahul,Cust461,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Retail,99000.00,No
+3/31/2025,March,West,Maharashtra,Priya,Cust641,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Online,178200.00,Yes
+4/1/2025,April,South,Tamil Nadu,Vijay,Cust994,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Online,181500.00,No
+4/1/2025,April,South,Tamil Nadu,Arun,Cust820,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Retail,99000.00,No
+4/1/2025,April,West,Maharashtra,Asha,Cust357,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Retail,79200.00,No
+4/2/2025,April,West,Maharashtra,Arun,Cust637,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+4/2/2025,April,North,Delhi,Priya,Cust860,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Distributor,69300.00,No
+4/2/2025,April,South,Tamil Nadu,Arun,Cust778,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Distributor,39600.00,No
+4/3/2025,April,East,West Bengal,Rahul,Cust598,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Online,158400.00,No
+4/3/2025,April,South,Karnataka,Neha,Cust240,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Retail,165000.00,No
+4/3/2025,April,North,Delhi,Priya,Cust556,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Online,39600.00,No
+4/4/2025,April,South,Karnataka,Priya,Cust898,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Online,198000.00,No
+4/4/2025,April,South,Tamil Nadu,Rahul,Cust498,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Distributor,49500.00,No
+4/4/2025,April,North,Delhi,Rahul,Cust314,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Retail,178200.00,Yes
+4/5/2025,April,North,Delhi,Rahul,Cust308,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Online,79200.00,No
+4/5/2025,April,West,Maharashtra,Karan,Cust182,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Online,99000.00,No
+4/5/2025,April,South,Karnataka,Neha,Cust849,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,No
+4/6/2025,April,South,Karnataka,Rahul,Cust110,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,No
+4/6/2025,April,North,Delhi,Vijay,Cust860,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Distributor,158400.00,No
+4/6/2025,April,West,Maharashtra,Priya,Cust495,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Distributor,118800.00,No
+4/7/2025,April,East,West Bengal,Meera,Cust730,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+4/7/2025,April,East,West Bengal,Neha,Cust296,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Online,7700.00,Yes
+4/7/2025,April,South,Tamil Nadu,Meera,Cust671,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Distributor,71500.00,No
+4/8/2025,April,West,Maharashtra,Karan,Cust454,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Distributor,13200.00,No
+4/8/2025,April,North,Delhi,Neha,Cust581,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Online,178200.00,No
+4/8/2025,April,East,West Bengal,Neha,Cust415,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Retail,19800.00,No
+4/9/2025,April,East,West Bengal,Asha,Cust420,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Online,118800.00,No
+4/9/2025,April,East,West Bengal,Meera,Cust957,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Online,105600.00,No
+4/9/2025,April,West,Maharashtra,Karan,Cust624,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Online,145200.00,No
+4/10/2025,April,South,Karnataka,Vijay,Cust292,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+4/10/2025,April,North,Delhi,Meera,Cust522,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+4/10/2025,April,South,Tamil Nadu,Arun,Cust168,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Distributor,39600.00,Yes
+4/11/2025,April,South,Karnataka,Meera,Cust105,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Distributor,178200.00,Yes
+4/11/2025,April,South,Karnataka,Meera,Cust365,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Distributor,99000.00,No
+4/11/2025,April,West,Maharashtra,Karan,Cust788,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Retail,858000.00,No
+4/12/2025,April,East,West Bengal,Asha,Cust844,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Distributor,92400.00,No
+4/12/2025,April,West,Maharashtra,Karan,Cust189,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Retail,19800.00,No
+4/12/2025,April,South,Tamil Nadu,Vijay,Cust967,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Online,99000.00,No
+4/13/2025,April,East,West Bengal,Asha,Cust891,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Online,66000.00,No
+4/13/2025,April,East,West Bengal,Arun,Cust527,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Online,643500.00,No
+4/13/2025,April,East,West Bengal,Priya,Cust247,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Retail,165000.00,No
+4/14/2025,April,South,Karnataka,Arun,Cust175,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Distributor,69300.00,No
+4/14/2025,April,North,Delhi,Meera,Cust268,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,No
+4/14/2025,April,West,Maharashtra,Asha,Cust967,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Distributor,7700.00,No
+4/15/2025,April,East,West Bengal,Meera,Cust190,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Distributor,158400.00,No
+4/15/2025,April,East,West Bengal,Priya,Cust576,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Distributor,84700.00,No
+4/15/2025,April,South,Karnataka,Rahul,Cust663,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Distributor,66000.00,No
+4/16/2025,April,West,Maharashtra,Rahul,Cust945,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Retail,158400.00,No
+4/16/2025,April,East,West Bengal,Priya,Cust369,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Distributor,237600.00,No
+4/16/2025,April,East,West Bengal,Priya,Cust117,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Distributor,118800.00,No
+4/17/2025,April,West,Maharashtra,Asha,Cust454,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,No
+4/17/2025,April,North,Delhi,Meera,Cust721,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Distributor,49500.00,No
+4/17/2025,April,South,Tamil Nadu,Neha,Cust575,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Distributor,118800.00,No
+4/18/2025,April,South,Karnataka,Vijay,Cust206,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+4/18/2025,April,South,Tamil Nadu,Rahul,Cust801,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Retail,71500.00,No
+4/18/2025,April,South,Tamil Nadu,Neha,Cust343,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Distributor,79200.00,No
+4/19/2025,April,North,Delhi,Priya,Cust891,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Distributor,53900.00,No
+4/19/2025,April,South,Karnataka,Priya,Cust998,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Online,23100.00,No
+4/19/2025,April,East,West Bengal,Vijay,Cust656,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Distributor,105600.00,No
+4/20/2025,April,West,Maharashtra,Vijay,Cust313,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Online,16500.00,No
+4/20/2025,April,South,Tamil Nadu,Neha,Cust691,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Distributor,858000.00,No
+4/20/2025,April,South,Tamil Nadu,Karan,Cust421,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Retail,198000.00,No
+4/21/2025,April,East,West Bengal,Neha,Cust215,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Distributor,92400.00,No
+4/21/2025,April,East,West Bengal,Asha,Cust569,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Retail,92400.00,No
+4/21/2025,April,West,Maharashtra,Vijay,Cust101,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Online,198000.00,No
+4/22/2025,April,East,West Bengal,Karan,Cust389,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Distributor,145200.00,No
+4/22/2025,April,East,West Bengal,Karan,Cust771,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Distributor,132000.00,No
+4/22/2025,April,West,Maharashtra,Asha,Cust207,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Online,715000.00,No
+4/23/2025,April,South,Karnataka,Vijay,Cust452,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Distributor,715000.00,No
+4/23/2025,April,North,Delhi,Meera,Cust921,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Retail,357500.00,No
+4/23/2025,April,North,Delhi,Neha,Cust345,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Retail,217800.00,No
+4/24/2025,April,North,Delhi,Meera,Cust869,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Online,145200.00,No
+4/24/2025,April,East,West Bengal,Karan,Cust586,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Online,49500.00,No
+4/24/2025,April,North,Delhi,Vijay,Cust350,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Retail,237600.00,Yes
+4/25/2025,April,East,West Bengal,Priya,Cust274,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Online,500500.00,No
+4/25/2025,April,South,Karnataka,Meera,Cust419,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Distributor,786500.00,No
+4/25/2025,April,West,Maharashtra,Neha,Cust426,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Distributor,39600.00,No
+4/26/2025,April,North,Delhi,Vijay,Cust871,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Distributor,82500.00,No
+4/26/2025,April,South,Karnataka,Priya,Cust811,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Retail,66000.00,No
+4/26/2025,April,East,West Bengal,Rahul,Cust643,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Distributor,118800.00,No
+4/27/2025,April,West,Maharashtra,Meera,Cust844,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Retail,53900.00,No
+4/27/2025,April,South,Karnataka,Rahul,Cust621,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Online,429000.00,No
+4/27/2025,April,West,Maharashtra,Priya,Cust270,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Retail,66000.00,No
+4/28/2025,April,West,Maharashtra,Priya,Cust567,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Retail,158400.00,No
+4/28/2025,April,North,Delhi,Karan,Cust681,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Retail,132000.00,No
+4/28/2025,April,South,Tamil Nadu,Rahul,Cust719,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Retail,19800.00,No
+4/29/2025,April,North,Delhi,Asha,Cust673,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Retail,92400.00,No
+4/29/2025,April,East,West Bengal,Asha,Cust316,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Online,178200.00,No
+4/29/2025,April,North,Delhi,Neha,Cust523,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Online,38500.00,No
+4/30/2025,April,East,West Bengal,Meera,Cust615,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Retail,23100.00,No
+4/30/2025,April,South,Tamil Nadu,Asha,Cust328,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Online,715000.00,No
+4/30/2025,April,North,Delhi,Rahul,Cust396,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+5/1/2025,May,South,Tamil Nadu,Arun,Cust230,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Online,52800.00,No
+5/1/2025,May,South,Karnataka,Neha,Cust848,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Online,858000.00,No
+5/1/2025,May,North,Delhi,Vijay,Cust998,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Online,198000.00,No
+5/2/2025,May,South,Tamil Nadu,Neha,Cust477,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Online,49500.00,No
+5/2/2025,May,West,Maharashtra,Karan,Cust511,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Retail,38500.00,No
+5/2/2025,May,West,Maharashtra,Rahul,Cust740,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Retail,198000.00,No
+5/3/2025,May,North,Delhi,Priya,Cust702,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Distributor,15400.00,Yes
+5/3/2025,May,South,Tamil Nadu,Rahul,Cust703,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Retail,16500.00,No
+5/3/2025,May,South,Karnataka,Rahul,Cust624,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Online,59400.00,No
+5/4/2025,May,South,Karnataka,Vijay,Cust376,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Distributor,181500.00,Yes
+5/4/2025,May,South,Karnataka,Karan,Cust497,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Distributor,99000.00,No
+5/4/2025,May,North,Delhi,Meera,Cust844,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Retail,786500.00,No
+5/5/2025,May,North,Delhi,Arun,Cust376,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+5/5/2025,May,West,Maharashtra,Vijay,Cust136,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Retail,23100.00,No
+5/5/2025,May,East,West Bengal,Vijay,Cust881,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Retail,143000.00,No
+5/6/2025,May,West,Maharashtra,Asha,Cust171,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Distributor,572000.00,No
+5/6/2025,May,West,Maharashtra,Karan,Cust791,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Retail,132000.00,No
+5/6/2025,May,South,Tamil Nadu,Neha,Cust760,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Online,82500.00,No
+5/7/2025,May,East,West Bengal,Karan,Cust785,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Distributor,214500.00,No
+5/7/2025,May,South,Karnataka,Rahul,Cust998,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+5/7/2025,May,West,Maharashtra,Priya,Cust714,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Online,61600.00,No
+5/8/2025,May,South,Karnataka,Rahul,Cust864,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Distributor,429000.00,No
+5/8/2025,May,North,Delhi,Arun,Cust236,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Distributor,59400.00,No
+5/8/2025,May,East,West Bengal,Rahul,Cust469,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Retail,118800.00,No
+5/9/2025,May,South,Karnataka,Asha,Cust583,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Distributor,858000.00,No
+5/9/2025,May,West,Maharashtra,Asha,Cust628,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Online,132000.00,Yes
+5/9/2025,May,West,Maharashtra,Karan,Cust104,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Retail,786500.00,No
+5/10/2025,May,West,Maharashtra,Asha,Cust926,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Online,148500.00,Yes
+5/10/2025,May,West,Maharashtra,Priya,Cust202,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Distributor,16500.00,No
+5/10/2025,May,South,Karnataka,Priya,Cust248,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Distributor,82500.00,No
+5/11/2025,May,North,Delhi,Neha,Cust537,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Retail,165000.00,No
+5/11/2025,May,South,Karnataka,Rahul,Cust595,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Distributor,115500.00,No
+5/11/2025,May,South,Tamil Nadu,Karan,Cust473,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Online,198000.00,No
+5/12/2025,May,North,Delhi,Arun,Cust626,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Online,145200.00,No
+5/12/2025,May,North,Delhi,Asha,Cust261,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Retail,99000.00,No
+5/12/2025,May,North,Delhi,Neha,Cust423,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Online,99000.00,No
+5/13/2025,May,South,Tamil Nadu,Meera,Cust649,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Online,138600.00,No
+5/13/2025,May,South,Tamil Nadu,Priya,Cust862,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Retail,49500.00,No
+5/13/2025,May,South,Karnataka,Meera,Cust560,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Distributor,39600.00,No
+5/14/2025,May,South,Tamil Nadu,Neha,Cust432,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Online,357500.00,No
+5/14/2025,May,East,West Bengal,Arun,Cust444,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Online,715000.00,No
+5/14/2025,May,West,Maharashtra,Neha,Cust924,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Distributor,237600.00,No
+5/15/2025,May,South,Karnataka,Neha,Cust662,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Online,715000.00,No
+5/15/2025,May,South,Tamil Nadu,Karan,Cust556,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Online,46200.00,No
+5/15/2025,May,East,West Bengal,Priya,Cust309,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Online,158400.00,No
+5/16/2025,May,East,West Bengal,Rahul,Cust606,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Online,105600.00,No
+5/16/2025,May,North,Delhi,Asha,Cust308,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Retail,84700.00,No
+5/16/2025,May,East,West Bengal,Arun,Cust283,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Retail,46200.00,No
+5/17/2025,May,South,Tamil Nadu,Meera,Cust588,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Online,59400.00,No
+5/17/2025,May,South,Karnataka,Meera,Cust582,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Distributor,30800.00,Yes
+5/17/2025,May,West,Maharashtra,Vijay,Cust471,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Retail,59400.00,No
+5/18/2025,May,South,Tamil Nadu,Arun,Cust133,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Online,52800.00,No
+5/18/2025,May,South,Karnataka,Priya,Cust965,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Retail,7700.00,No
+5/18/2025,May,East,West Bengal,Arun,Cust826,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Distributor,99000.00,No
+5/19/2025,May,North,Delhi,Neha,Cust149,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Distributor,858000.00,No
+5/19/2025,May,West,Maharashtra,Karan,Cust176,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Online,26400.00,No
+5/19/2025,May,North,Delhi,Priya,Cust610,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Online,79200.00,No
+5/20/2025,May,South,Tamil Nadu,Karan,Cust340,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Online,143000.00,No
+5/20/2025,May,South,Tamil Nadu,Neha,Cust149,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Distributor,46200.00,No
+5/20/2025,May,South,Karnataka,Vijay,Cust798,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Retail,66000.00,No
+5/21/2025,May,West,Maharashtra,Vijay,Cust991,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Retail,15400.00,No
+5/21/2025,May,South,Karnataka,Asha,Cust692,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Online,643500.00,No
+5/21/2025,May,West,Maharashtra,Rahul,Cust459,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Online,138600.00,No
+5/22/2025,May,West,Maharashtra,Arun,Cust913,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Retail,217800.00,No
+5/22/2025,May,South,Tamil Nadu,Priya,Cust422,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Online,198000.00,No
+5/22/2025,May,West,Maharashtra,Priya,Cust823,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Retail,39600.00,No
+5/23/2025,May,North,Delhi,Karan,Cust417,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Retail,165000.00,No
+5/23/2025,May,South,Karnataka,Neha,Cust298,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Retail,7700.00,No
+5/23/2025,May,South,Karnataka,Neha,Cust994,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Online,158400.00,No
+5/24/2025,May,East,West Bengal,Neha,Cust694,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Online,19800.00,No
+5/24/2025,May,South,Tamil Nadu,Meera,Cust171,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Retail,132000.00,No
+5/24/2025,May,North,Delhi,Asha,Cust170,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Distributor,26400.00,No
+5/25/2025,May,South,Tamil Nadu,Neha,Cust278,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Distributor,71500.00,No
+5/25/2025,May,North,Delhi,Priya,Cust184,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,Yes
+5/25/2025,May,South,Tamil Nadu,Meera,Cust756,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+5/26/2025,May,West,Maharashtra,Vijay,Cust968,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Distributor,118800.00,No
+5/26/2025,May,South,Karnataka,Rahul,Cust723,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Distributor,92400.00,No
+5/26/2025,May,North,Delhi,Neha,Cust855,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Retail,71500.00,No
+5/27/2025,May,West,Maharashtra,Rahul,Cust849,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Online,198000.00,No
+5/27/2025,May,West,Maharashtra,Asha,Cust359,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Distributor,82500.00,No
+5/27/2025,May,South,Tamil Nadu,Karan,Cust266,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Online,105600.00,No
+5/28/2025,May,East,West Bengal,Karan,Cust711,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Retail,500500.00,No
+5/28/2025,May,North,Delhi,Rahul,Cust884,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Retail,79200.00,No
+5/28/2025,May,South,Karnataka,Vijay,Cust984,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Distributor,30800.00,No
+5/29/2025,May,North,Delhi,Asha,Cust696,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Online,786500.00,No
+5/29/2025,May,West,Maharashtra,Karan,Cust455,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Online,71500.00,No
+5/29/2025,May,West,Maharashtra,Meera,Cust708,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Online,38500.00,No
+5/30/2025,May,North,Delhi,Vijay,Cust426,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Online,77000.00,No
+5/30/2025,May,East,West Bengal,Asha,Cust339,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Online,61600.00,No
+5/30/2025,May,South,Tamil Nadu,Vijay,Cust936,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Distributor,13200.00,No
+5/31/2025,May,South,Tamil Nadu,Rahul,Cust508,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Distributor,178200.00,No
+5/31/2025,May,East,West Bengal,Asha,Cust542,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,No
+5/31/2025,May,North,Delhi,Neha,Cust598,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+6/1/2025,June,East,West Bengal,Meera,Cust556,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Online,92400.00,No
+6/1/2025,June,North,Delhi,Meera,Cust909,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Distributor,16500.00,No
+6/1/2025,June,West,Maharashtra,Meera,Cust612,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Distributor,39600.00,No
+6/2/2025,June,South,Karnataka,Karan,Cust771,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Distributor,158400.00,No
+6/2/2025,June,South,Karnataka,Asha,Cust551,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+6/2/2025,June,East,West Bengal,Vijay,Cust764,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Distributor,132000.00,No
+6/3/2025,June,South,Tamil Nadu,Vijay,Cust567,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Online,786500.00,No
+6/3/2025,June,North,Delhi,Arun,Cust622,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Retail,46200.00,No
+6/3/2025,June,North,Delhi,Karan,Cust463,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,No
+6/4/2025,June,West,Maharashtra,Priya,Cust765,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Online,715000.00,No
+6/4/2025,June,West,Maharashtra,Rahul,Cust943,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,No
+6/4/2025,June,West,Maharashtra,Karan,Cust456,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Online,118800.00,No
+6/5/2025,June,North,Delhi,Neha,Cust217,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Retail,118800.00,No
+6/5/2025,June,South,Karnataka,Vijay,Cust106,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,No
+6/5/2025,June,East,West Bengal,Arun,Cust436,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Online,46200.00,No
+6/6/2025,June,West,Maharashtra,Vijay,Cust432,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+6/6/2025,June,East,West Bengal,Meera,Cust791,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,Yes
+6/6/2025,June,South,Karnataka,Rahul,Cust325,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Distributor,145200.00,No
+6/7/2025,June,South,Tamil Nadu,Karan,Cust711,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Distributor,158400.00,No
+6/7/2025,June,North,Delhi,Asha,Cust953,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Online,145200.00,No
+6/7/2025,June,South,Tamil Nadu,Karan,Cust185,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Distributor,99000.00,No
+6/8/2025,June,East,West Bengal,Neha,Cust547,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Distributor,23100.00,No
+6/8/2025,June,West,Maharashtra,Meera,Cust452,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Distributor,69300.00,No
+6/8/2025,June,South,Karnataka,Neha,Cust289,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Online,15400.00,No
+6/9/2025,June,South,Karnataka,Priya,Cust281,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Online,429000.00,No
+6/9/2025,June,East,West Bengal,Karan,Cust574,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Retail,643500.00,No
+6/9/2025,June,North,Delhi,Neha,Cust366,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Retail,52800.00,No
+6/10/2025,June,South,Karnataka,Neha,Cust291,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Online,79200.00,No
+6/10/2025,June,West,Maharashtra,Neha,Cust813,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Retail,145200.00,No
+6/10/2025,June,East,West Bengal,Priya,Cust991,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Retail,92400.00,No
+6/11/2025,June,South,Karnataka,Asha,Cust114,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Distributor,84700.00,No
+6/11/2025,June,South,Karnataka,Arun,Cust344,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Distributor,15400.00,No
+6/11/2025,June,West,Maharashtra,Rahul,Cust254,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Online,38500.00,No
+6/12/2025,June,East,West Bengal,Neha,Cust444,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Online,148500.00,No
+6/12/2025,June,East,West Bengal,Karan,Cust693,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+6/12/2025,June,North,Delhi,Vijay,Cust516,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+6/13/2025,June,South,Tamil Nadu,Neha,Cust601,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Retail,33000.00,Yes
+6/13/2025,June,North,Delhi,Karan,Cust432,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Distributor,786500.00,No
+6/13/2025,June,South,Tamil Nadu,Vijay,Cust214,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+6/14/2025,June,South,Karnataka,Priya,Cust776,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+6/14/2025,June,North,Delhi,Arun,Cust856,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Retail,237600.00,No
+6/14/2025,June,West,Maharashtra,Asha,Cust678,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Distributor,572000.00,No
+6/15/2025,June,South,Tamil Nadu,Arun,Cust718,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Distributor,214500.00,No
+6/15/2025,June,West,Maharashtra,Rahul,Cust609,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Online,46200.00,No
+6/15/2025,June,East,West Bengal,Meera,Cust643,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Distributor,61600.00,No
+6/16/2025,June,North,Delhi,Rahul,Cust900,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Online,858000.00,No
+6/16/2025,June,North,Delhi,Arun,Cust691,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Distributor,46200.00,No
+6/16/2025,June,East,West Bengal,Neha,Cust990,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Retail,82500.00,No
+6/17/2025,June,West,Maharashtra,Rahul,Cust922,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Retail,217800.00,No
+6/17/2025,June,South,Tamil Nadu,Arun,Cust130,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Retail,214500.00,No
+6/17/2025,June,South,Karnataka,Karan,Cust309,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Online,429000.00,No
+6/18/2025,June,East,West Bengal,Karan,Cust650,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Online,82500.00,No
+6/18/2025,June,West,Maharashtra,Rahul,Cust224,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Retail,500500.00,No
+6/18/2025,June,West,Maharashtra,Meera,Cust952,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Retail,118800.00,No
+6/19/2025,June,East,West Bengal,Vijay,Cust159,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Distributor,19800.00,No
+6/19/2025,June,East,West Bengal,Vijay,Cust349,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Distributor,23100.00,No
+6/19/2025,June,North,Delhi,Asha,Cust485,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Distributor,30800.00,No
+6/20/2025,June,East,West Bengal,Vijay,Cust787,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Online,38500.00,No
+6/20/2025,June,South,Karnataka,Asha,Cust919,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Distributor,286000.00,No
+6/20/2025,June,South,Karnataka,Priya,Cust600,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Retail,46200.00,No
+6/21/2025,June,North,Delhi,Meera,Cust363,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Distributor,357500.00,No
+6/21/2025,June,North,Delhi,Arun,Cust197,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Retail,26400.00,No
+6/21/2025,June,South,Tamil Nadu,Vijay,Cust530,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Retail,84700.00,No
+6/22/2025,June,East,West Bengal,Rahul,Cust771,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Online,33000.00,No
+6/22/2025,June,East,West Bengal,Vijay,Cust159,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Distributor,79200.00,No
+6/22/2025,June,South,Tamil Nadu,Neha,Cust969,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Distributor,115500.00,No
+6/23/2025,June,West,Maharashtra,Priya,Cust506,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Retail,16500.00,No
+6/23/2025,June,West,Maharashtra,Karan,Cust898,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Retail,49500.00,No
+6/23/2025,June,East,West Bengal,Karan,Cust558,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Distributor,198000.00,No
+6/24/2025,June,North,Delhi,Meera,Cust597,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Distributor,715000.00,No
+6/24/2025,June,East,West Bengal,Neha,Cust722,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Online,138600.00,No
+6/24/2025,June,South,Tamil Nadu,Priya,Cust155,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Distributor,178200.00,No
+6/25/2025,June,East,West Bengal,Neha,Cust495,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Retail,53900.00,No
+6/25/2025,June,West,Maharashtra,Vijay,Cust286,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Distributor,118800.00,No
+6/25/2025,June,West,Maharashtra,Meera,Cust475,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Online,7700.00,No
+6/26/2025,June,South,Tamil Nadu,Karan,Cust925,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Online,82500.00,No
+6/26/2025,June,North,Delhi,Priya,Cust432,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Distributor,26400.00,No
+6/26/2025,June,South,Tamil Nadu,Rahul,Cust583,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,No
+6/27/2025,June,South,Tamil Nadu,Vijay,Cust284,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Distributor,52800.00,No
+6/27/2025,June,West,Maharashtra,Asha,Cust756,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Online,118800.00,No
+6/27/2025,June,South,Karnataka,Vijay,Cust407,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Distributor,214500.00,No
+6/28/2025,June,South,Tamil Nadu,Meera,Cust656,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Online,71500.00,No
+6/28/2025,June,North,Delhi,Meera,Cust353,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Retail,84700.00,No
+6/28/2025,June,West,Maharashtra,Neha,Cust317,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Online,16500.00,No
+6/29/2025,June,South,Karnataka,Vijay,Cust235,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Distributor,429000.00,No
+6/29/2025,June,North,Delhi,Priya,Cust547,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Retail,61600.00,No
+6/29/2025,June,South,Karnataka,Priya,Cust743,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Retail,115500.00,No
+6/30/2025,June,South,Tamil Nadu,Asha,Cust762,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+6/30/2025,June,West,Maharashtra,Vijay,Cust158,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Online,118800.00,No
+6/30/2025,June,South,Tamil Nadu,Vijay,Cust775,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Retail,178200.00,No
+7/1/2025,July,South,Tamil Nadu,Priya,Cust873,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Retail,165000.00,No
+7/1/2025,July,South,Tamil Nadu,Neha,Cust418,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Online,52800.00,Yes
+7/1/2025,July,South,Karnataka,Meera,Cust405,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+7/2/2025,July,South,Tamil Nadu,Arun,Cust633,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Online,82500.00,No
+7/2/2025,July,South,Karnataka,Rahul,Cust915,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+7/2/2025,July,South,Karnataka,Karan,Cust841,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+7/3/2025,July,South,Karnataka,Priya,Cust684,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Distributor,23100.00,No
+7/3/2025,July,West,Maharashtra,Vijay,Cust287,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Distributor,33000.00,No
+7/3/2025,July,South,Karnataka,Asha,Cust238,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Distributor,99000.00,No
+7/4/2025,July,East,West Bengal,Meera,Cust844,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Distributor,429000.00,No
+7/4/2025,July,South,Tamil Nadu,Vijay,Cust186,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,No
+7/4/2025,July,North,Delhi,Meera,Cust340,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Distributor,49500.00,No
+7/5/2025,July,South,Karnataka,Vijay,Cust693,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+7/5/2025,July,South,Karnataka,Meera,Cust963,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Distributor,858000.00,No
+7/5/2025,July,South,Karnataka,Vijay,Cust184,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Online,66000.00,No
+7/6/2025,July,East,West Bengal,Vijay,Cust451,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Retail,84700.00,No
+7/6/2025,July,West,Maharashtra,Meera,Cust874,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Retail,39600.00,No
+7/6/2025,July,East,West Bengal,Priya,Cust584,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Retail,26400.00,No
+7/7/2025,July,South,Tamil Nadu,Arun,Cust721,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Online,237600.00,Yes
+7/7/2025,July,West,Maharashtra,Priya,Cust344,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Online,643500.00,No
+7/7/2025,July,South,Tamil Nadu,Arun,Cust446,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Online,198000.00,No
+7/8/2025,July,West,Maharashtra,Asha,Cust741,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Retail,181500.00,No
+7/8/2025,July,West,Maharashtra,Karan,Cust648,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Retail,13200.00,No
+7/8/2025,July,North,Delhi,Asha,Cust324,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+7/9/2025,July,South,Tamil Nadu,Asha,Cust122,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Retail,858000.00,No
+7/9/2025,July,East,West Bengal,Priya,Cust938,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Online,132000.00,No
+7/9/2025,July,North,Delhi,Asha,Cust958,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Online,71500.00,No
+7/10/2025,July,South,Karnataka,Rahul,Cust789,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Distributor,198000.00,No
+7/10/2025,July,West,Maharashtra,Priya,Cust906,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Distributor,69300.00,No
+7/10/2025,July,West,Maharashtra,Neha,Cust342,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Online,99000.00,No
+7/11/2025,July,South,Karnataka,Asha,Cust760,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Online,105600.00,No
+7/11/2025,July,East,West Bengal,Asha,Cust699,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Distributor,165000.00,No
+7/11/2025,July,South,Tamil Nadu,Asha,Cust866,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Retail,66000.00,No
+7/12/2025,July,West,Maharashtra,Karan,Cust253,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Retail,118800.00,No
+7/12/2025,July,East,West Bengal,Arun,Cust494,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Retail,118800.00,No
+7/12/2025,July,South,Karnataka,Meera,Cust198,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Distributor,214500.00,Yes
+7/13/2025,July,South,Tamil Nadu,Rahul,Cust279,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Distributor,19800.00,No
+7/13/2025,July,South,Tamil Nadu,Asha,Cust417,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Distributor,572000.00,No
+7/13/2025,July,South,Tamil Nadu,Vijay,Cust589,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Distributor,118800.00,No
+7/14/2025,July,South,Karnataka,Karan,Cust890,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Online,92400.00,No
+7/14/2025,July,West,Maharashtra,Priya,Cust726,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Online,49500.00,No
+7/14/2025,July,South,Tamil Nadu,Vijay,Cust880,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Online,858000.00,No
+7/15/2025,July,North,Delhi,Vijay,Cust735,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+7/15/2025,July,East,West Bengal,Arun,Cust584,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,No
+7/15/2025,July,South,Karnataka,Rahul,Cust231,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Online,115500.00,No
+7/16/2025,July,West,Maharashtra,Arun,Cust174,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Distributor,118800.00,No
+7/16/2025,July,East,West Bengal,Arun,Cust526,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+7/16/2025,July,East,West Bengal,Rahul,Cust101,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Distributor,237600.00,No
+7/17/2025,July,West,Maharashtra,Asha,Cust735,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Distributor,23100.00,No
+7/17/2025,July,South,Tamil Nadu,Neha,Cust644,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Online,38500.00,No
+7/17/2025,July,North,Delhi,Karan,Cust777,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Online,92400.00,No
+7/18/2025,July,South,Karnataka,Rahul,Cust952,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Distributor,105600.00,No
+7/18/2025,July,North,Delhi,Karan,Cust785,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Retail,99000.00,No
+7/18/2025,July,East,West Bengal,Meera,Cust494,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Distributor,214500.00,No
+7/19/2025,July,North,Delhi,Priya,Cust483,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Retail,39600.00,No
+7/19/2025,July,South,Tamil Nadu,Priya,Cust286,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+7/19/2025,July,South,Karnataka,Asha,Cust830,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Retail,15400.00,Yes
+7/20/2025,July,West,Maharashtra,Vijay,Cust731,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Online,33000.00,No
+7/20/2025,July,South,Tamil Nadu,Rahul,Cust795,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Distributor,572000.00,No
+7/20/2025,July,South,Tamil Nadu,Priya,Cust944,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Retail,26400.00,No
+7/21/2025,July,North,Delhi,Rahul,Cust864,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Distributor,84700.00,Yes
+7/21/2025,July,North,Delhi,Karan,Cust826,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Online,61600.00,Yes
+7/21/2025,July,South,Karnataka,Karan,Cust528,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Distributor,16500.00,No
+7/22/2025,July,East,West Bengal,Arun,Cust826,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Retail,69300.00,No
+7/22/2025,July,South,Karnataka,Arun,Cust453,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+7/22/2025,July,West,Maharashtra,Karan,Cust818,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Distributor,92400.00,No
+7/23/2025,July,West,Maharashtra,Arun,Cust779,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Distributor,66000.00,No
+7/23/2025,July,West,Maharashtra,Karan,Cust384,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Retail,138600.00,No
+7/23/2025,July,South,Karnataka,Rahul,Cust313,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Distributor,49500.00,No
+7/24/2025,July,South,Karnataka,Neha,Cust564,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Retail,217800.00,No
+7/24/2025,July,South,Karnataka,Neha,Cust595,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Distributor,7700.00,No
+7/24/2025,July,West,Maharashtra,Meera,Cust168,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,No
+7/25/2025,July,West,Maharashtra,Priya,Cust990,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+7/25/2025,July,South,Tamil Nadu,Asha,Cust164,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Online,99000.00,No
+7/25/2025,July,East,West Bengal,Meera,Cust181,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Retail,7700.00,No
+7/26/2025,July,North,Delhi,Vijay,Cust188,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Online,92400.00,No
+7/26/2025,July,East,West Bengal,Arun,Cust787,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Online,99000.00,No
+7/26/2025,July,West,Maharashtra,Rahul,Cust164,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Online,82500.00,No
+7/27/2025,July,East,West Bengal,Vijay,Cust449,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Distributor,84700.00,No
+7/27/2025,July,South,Karnataka,Arun,Cust917,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Retail,214500.00,No
+7/27/2025,July,East,West Bengal,Neha,Cust269,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Retail,66000.00,No
+7/28/2025,July,East,West Bengal,Rahul,Cust905,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Retail,138600.00,No
+7/28/2025,July,West,Maharashtra,Meera,Cust907,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Distributor,71500.00,No
+7/28/2025,July,South,Tamil Nadu,Vijay,Cust644,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+7/29/2025,July,North,Delhi,Rahul,Cust522,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Retail,115500.00,No
+7/29/2025,July,South,Tamil Nadu,Arun,Cust369,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Retail,79200.00,No
+7/29/2025,July,North,Delhi,Rahul,Cust873,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+7/30/2025,July,West,Maharashtra,Priya,Cust426,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Retail,429000.00,No
+7/30/2025,July,South,Karnataka,Rahul,Cust429,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Distributor,52800.00,No
+7/30/2025,July,East,West Bengal,Asha,Cust293,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Distributor,158400.00,No
+7/31/2025,July,East,West Bengal,Meera,Cust257,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Distributor,158400.00,No
+7/31/2025,July,North,Delhi,Neha,Cust333,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Retail,53900.00,No
+7/31/2025,July,South,Karnataka,Karan,Cust375,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Distributor,158400.00,No
+8/1/2025,August,South,Karnataka,Vijay,Cust911,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Retail,92400.00,No
+8/1/2025,August,West,Maharashtra,Vijay,Cust947,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Retail,53900.00,No
+8/1/2025,August,East,West Bengal,Rahul,Cust671,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Online,84700.00,No
+8/2/2025,August,West,Maharashtra,Karan,Cust746,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Retail,92400.00,No
+8/2/2025,August,South,Karnataka,Asha,Cust569,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Online,715000.00,No
+8/2/2025,August,West,Maharashtra,Meera,Cust809,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Online,178200.00,No
+8/3/2025,August,East,West Bengal,Priya,Cust366,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Distributor,61600.00,No
+8/3/2025,August,East,West Bengal,Vijay,Cust353,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Retail,115500.00,No
+8/3/2025,August,South,Tamil Nadu,Priya,Cust805,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Retail,715000.00,No
+8/4/2025,August,West,Maharashtra,Asha,Cust939,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Retail,49500.00,No
+8/4/2025,August,North,Delhi,Neha,Cust708,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Distributor,198000.00,Yes
+8/4/2025,August,South,Karnataka,Neha,Cust929,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Online,105600.00,No
+8/5/2025,August,East,West Bengal,Priya,Cust499,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Distributor,105600.00,No
+8/5/2025,August,North,Delhi,Priya,Cust435,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Retail,30800.00,No
+8/5/2025,August,North,Delhi,Vijay,Cust699,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Online,148500.00,No
+8/6/2025,August,North,Delhi,Meera,Cust679,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Distributor,19800.00,No
+8/6/2025,August,North,Delhi,Priya,Cust384,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Retail,237600.00,No
+8/6/2025,August,East,West Bengal,Asha,Cust824,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Distributor,357500.00,No
+8/7/2025,August,East,West Bengal,Meera,Cust776,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Distributor,715000.00,No
+8/7/2025,August,West,Maharashtra,Priya,Cust519,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Retail,165000.00,No
+8/7/2025,August,South,Karnataka,Arun,Cust519,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Online,26400.00,No
+8/8/2025,August,East,West Bengal,Neha,Cust775,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Online,92400.00,No
+8/8/2025,August,East,West Bengal,Asha,Cust259,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Online,79200.00,No
+8/8/2025,August,North,Delhi,Meera,Cust284,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Distributor,118800.00,No
+8/9/2025,August,East,West Bengal,Karan,Cust717,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Online,71500.00,No
+8/9/2025,August,South,Karnataka,Karan,Cust945,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Distributor,118800.00,No
+8/9/2025,August,South,Tamil Nadu,Rahul,Cust401,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Retail,198000.00,No
+8/10/2025,August,South,Tamil Nadu,Rahul,Cust351,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Retail,30800.00,No
+8/10/2025,August,East,West Bengal,Asha,Cust254,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Retail,786500.00,No
+8/10/2025,August,West,Maharashtra,Asha,Cust317,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Retail,7700.00,No
+8/11/2025,August,West,Maharashtra,Karan,Cust406,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Retail,13200.00,No
+8/11/2025,August,West,Maharashtra,Vijay,Cust459,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Distributor,165000.00,No
+8/11/2025,August,North,Delhi,Rahul,Cust580,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Retail,214500.00,No
+8/12/2025,August,West,Maharashtra,Karan,Cust972,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Distributor,158400.00,No
+8/12/2025,August,South,Karnataka,Asha,Cust808,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Online,500500.00,No
+8/12/2025,August,West,Maharashtra,Meera,Cust465,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+8/13/2025,August,West,Maharashtra,Arun,Cust743,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Retail,165000.00,No
+8/13/2025,August,West,Maharashtra,Priya,Cust775,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+8/13/2025,August,South,Karnataka,Arun,Cust978,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Retail,181500.00,Yes
+8/14/2025,August,South,Karnataka,Asha,Cust195,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Retail,145200.00,No
+8/14/2025,August,South,Tamil Nadu,Rahul,Cust627,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Distributor,181500.00,No
+8/14/2025,August,North,Delhi,Asha,Cust670,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Distributor,148500.00,No
+8/15/2025,August,South,Karnataka,Rahul,Cust495,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Retail,39600.00,No
+8/15/2025,August,West,Maharashtra,Asha,Cust107,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Online,158400.00,No
+8/15/2025,August,North,Delhi,Arun,Cust634,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Distributor,79200.00,No
+8/16/2025,August,South,Karnataka,Vijay,Cust767,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Distributor,198000.00,No
+8/16/2025,August,East,West Bengal,Arun,Cust561,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Online,92400.00,Yes
+8/16/2025,August,North,Delhi,Asha,Cust922,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+8/17/2025,August,South,Karnataka,Vijay,Cust106,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Retail,61600.00,No
+8/17/2025,August,South,Tamil Nadu,Arun,Cust813,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Online,165000.00,No
+8/17/2025,August,West,Maharashtra,Priya,Cust674,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Online,69300.00,No
+8/18/2025,August,South,Karnataka,Karan,Cust494,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,Yes
+8/18/2025,August,South,Tamil Nadu,Karan,Cust286,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Retail,99000.00,No
+8/18/2025,August,North,Delhi,Arun,Cust561,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Distributor,118800.00,No
+8/19/2025,August,North,Delhi,Vijay,Cust405,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Online,52800.00,No
+8/19/2025,August,North,Delhi,Arun,Cust545,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+8/19/2025,August,South,Tamil Nadu,Karan,Cust115,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Distributor,46200.00,Yes
+8/20/2025,August,West,Maharashtra,Rahul,Cust472,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Online,26400.00,No
+8/20/2025,August,West,Maharashtra,Arun,Cust567,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Retail,46200.00,No
+8/20/2025,August,South,Tamil Nadu,Arun,Cust155,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Distributor,572000.00,No
+8/21/2025,August,North,Delhi,Priya,Cust810,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+8/21/2025,August,West,Maharashtra,Neha,Cust772,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Retail,132000.00,No
+8/21/2025,August,South,Tamil Nadu,Karan,Cust574,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Online,92400.00,No
+8/22/2025,August,South,Tamil Nadu,Arun,Cust261,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Online,13200.00,No
+8/22/2025,August,South,Karnataka,Meera,Cust214,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,No
+8/22/2025,August,North,Delhi,Arun,Cust722,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Retail,69300.00,No
+8/23/2025,August,South,Tamil Nadu,Arun,Cust870,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Retail,39600.00,No
+8/23/2025,August,South,Tamil Nadu,Karan,Cust794,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Retail,61600.00,No
+8/23/2025,August,West,Maharashtra,Vijay,Cust627,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Retail,82500.00,No
+8/24/2025,August,South,Karnataka,Karan,Cust739,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Distributor,178200.00,No
+8/24/2025,August,East,West Bengal,Rahul,Cust438,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+8/24/2025,August,South,Karnataka,Priya,Cust416,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Online,71500.00,Yes
+8/25/2025,August,West,Maharashtra,Neha,Cust686,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Online,181500.00,No
+8/25/2025,August,South,Karnataka,Priya,Cust802,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Online,643500.00,No
+8/25/2025,August,East,West Bengal,Meera,Cust693,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+8/26/2025,August,South,Karnataka,Asha,Cust963,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Retail,643500.00,No
+8/26/2025,August,West,Maharashtra,Vijay,Cust191,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Distributor,61600.00,No
+8/26/2025,August,West,Maharashtra,Arun,Cust757,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Online,165000.00,No
+8/27/2025,August,North,Delhi,Priya,Cust876,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Online,118800.00,No
+8/27/2025,August,South,Karnataka,Priya,Cust981,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Distributor,53900.00,No
+8/27/2025,August,East,West Bengal,Asha,Cust247,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Retail,16500.00,No
+8/28/2025,August,West,Maharashtra,Meera,Cust173,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Online,786500.00,No
+8/28/2025,August,South,Tamil Nadu,Arun,Cust714,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Distributor,158400.00,No
+8/28/2025,August,South,Karnataka,Rahul,Cust904,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Retail,786500.00,No
+8/29/2025,August,South,Karnataka,Arun,Cust860,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Distributor,79200.00,No
+8/29/2025,August,West,Maharashtra,Meera,Cust881,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Online,715000.00,No
+8/29/2025,August,West,Maharashtra,Asha,Cust858,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Distributor,13200.00,No
+8/30/2025,August,North,Delhi,Vijay,Cust992,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Online,71500.00,No
+8/30/2025,August,West,Maharashtra,Vijay,Cust654,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Retail,59400.00,No
+8/30/2025,August,South,Karnataka,Vijay,Cust280,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Retail,132000.00,No
+8/31/2025,August,South,Karnataka,Asha,Cust374,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Retail,643500.00,No
+8/31/2025,August,North,Delhi,Neha,Cust140,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Distributor,71500.00,No
+8/31/2025,August,South,Karnataka,Rahul,Cust801,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Retail,217800.00,No
+9/1/2025,September,West,Maharashtra,Karan,Cust199,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+9/1/2025,September,East,West Bengal,Karan,Cust418,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Distributor,7700.00,No
+9/1/2025,September,South,Karnataka,Neha,Cust244,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Online,858000.00,No
+9/2/2025,September,North,Delhi,Vijay,Cust623,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Retail,138600.00,No
+9/2/2025,September,West,Maharashtra,Priya,Cust427,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Retail,158400.00,No
+9/2/2025,September,South,Tamil Nadu,Priya,Cust634,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Online,145200.00,Yes
+9/3/2025,September,North,Delhi,Karan,Cust173,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Distributor,38500.00,No
+9/3/2025,September,East,West Bengal,Rahul,Cust166,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Online,118800.00,No
+9/3/2025,September,East,West Bengal,Rahul,Cust444,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Online,500500.00,No
+9/4/2025,September,South,Tamil Nadu,Vijay,Cust451,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Retail,429000.00,No
+9/4/2025,September,North,Delhi,Neha,Cust895,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Distributor,115500.00,No
+9/4/2025,September,West,Maharashtra,Neha,Cust616,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Distributor,33000.00,No
+9/5/2025,September,North,Delhi,Neha,Cust637,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Retail,53900.00,No
+9/5/2025,September,West,Maharashtra,Arun,Cust106,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+9/5/2025,September,East,West Bengal,Neha,Cust389,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Retail,572000.00,No
+9/6/2025,September,South,Karnataka,Meera,Cust330,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Distributor,30800.00,No
+9/6/2025,September,South,Karnataka,Karan,Cust707,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+9/6/2025,September,South,Karnataka,Priya,Cust706,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Retail,132000.00,No
+9/7/2025,September,East,West Bengal,Meera,Cust536,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Retail,7700.00,No
+9/7/2025,September,North,Delhi,Rahul,Cust207,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Distributor,39600.00,No
+9/7/2025,September,South,Tamil Nadu,Neha,Cust295,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+9/8/2025,September,North,Delhi,Neha,Cust123,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Online,71500.00,No
+9/8/2025,September,South,Tamil Nadu,Vijay,Cust313,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Distributor,181500.00,No
+9/8/2025,September,South,Tamil Nadu,Priya,Cust833,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Retail,143000.00,No
+9/9/2025,September,South,Tamil Nadu,Rahul,Cust269,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+9/9/2025,September,East,West Bengal,Vijay,Cust439,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Online,500500.00,No
+9/9/2025,September,South,Tamil Nadu,Arun,Cust303,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Retail,214500.00,No
+9/10/2025,September,East,West Bengal,Priya,Cust432,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Online,49500.00,No
+9/10/2025,September,East,West Bengal,Priya,Cust891,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Retail,49500.00,No
+9/10/2025,September,West,Maharashtra,Neha,Cust640,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Online,7700.00,No
+9/11/2025,September,North,Delhi,Arun,Cust343,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Online,143000.00,No
+9/11/2025,September,North,Delhi,Meera,Cust309,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Online,158400.00,No
+9/11/2025,September,West,Maharashtra,Asha,Cust392,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Distributor,858000.00,No
+9/12/2025,September,North,Delhi,Meera,Cust684,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Retail,357500.00,No
+9/12/2025,September,South,Tamil Nadu,Meera,Cust196,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Retail,99000.00,No
+9/12/2025,September,South,Karnataka,Asha,Cust982,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Online,92400.00,No
+9/13/2025,September,East,West Bengal,Vijay,Cust358,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Online,39600.00,No
+9/13/2025,September,North,Delhi,Arun,Cust196,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Online,158400.00,No
+9/13/2025,September,East,West Bengal,Neha,Cust651,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Retail,7700.00,No
+9/14/2025,September,South,Tamil Nadu,Asha,Cust916,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Online,7700.00,No
+9/14/2025,September,East,West Bengal,Karan,Cust927,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Retail,7700.00,No
+9/14/2025,September,West,Maharashtra,Rahul,Cust511,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+9/15/2025,September,West,Maharashtra,Meera,Cust979,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Online,69300.00,No
+9/15/2025,September,South,Tamil Nadu,Karan,Cust991,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+9/15/2025,September,East,West Bengal,Arun,Cust218,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Online,148500.00,No
+9/16/2025,September,South,Karnataka,Priya,Cust151,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Distributor,148500.00,No
+9/16/2025,September,South,Karnataka,Arun,Cust709,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Distributor,237600.00,No
+9/16/2025,September,East,West Bengal,Neha,Cust712,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Online,7700.00,Yes
+9/17/2025,September,North,Delhi,Vijay,Cust767,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Online,23100.00,No
+9/17/2025,September,South,Karnataka,Asha,Cust347,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Retail,71500.00,No
+9/17/2025,September,East,West Bengal,Rahul,Cust745,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Retail,99000.00,No
+9/18/2025,September,East,West Bengal,Karan,Cust805,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Distributor,38500.00,No
+9/18/2025,September,South,Tamil Nadu,Vijay,Cust233,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Distributor,715000.00,No
+9/18/2025,September,North,Delhi,Asha,Cust750,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Retail,66000.00,No
+9/19/2025,September,South,Tamil Nadu,Karan,Cust222,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Distributor,16500.00,No
+9/19/2025,September,South,Tamil Nadu,Vijay,Cust821,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Retail,38500.00,No
+9/19/2025,September,South,Karnataka,Rahul,Cust172,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Online,69300.00,No
+9/20/2025,September,East,West Bengal,Karan,Cust695,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Distributor,158400.00,No
+9/20/2025,September,South,Tamil Nadu,Asha,Cust570,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+9/20/2025,September,West,Maharashtra,Vijay,Cust186,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Distributor,66000.00,No
+9/21/2025,September,South,Tamil Nadu,Asha,Cust504,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Distributor,66000.00,No
+9/21/2025,September,North,Delhi,Neha,Cust110,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Distributor,138600.00,No
+9/21/2025,September,East,West Bengal,Meera,Cust891,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Online,198000.00,No
+9/22/2025,September,North,Delhi,Neha,Cust712,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+9/22/2025,September,West,Maharashtra,Priya,Cust134,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Online,46200.00,No
+9/22/2025,September,North,Delhi,Neha,Cust976,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+9/23/2025,September,East,West Bengal,Priya,Cust648,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Distributor,138600.00,No
+9/23/2025,September,South,Tamil Nadu,Vijay,Cust133,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Distributor,357500.00,No
+9/23/2025,September,West,Maharashtra,Meera,Cust288,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Retail,52800.00,No
+9/24/2025,September,West,Maharashtra,Priya,Cust482,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Distributor,148500.00,No
+9/24/2025,September,North,Delhi,Vijay,Cust827,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Distributor,84700.00,No
+9/24/2025,September,South,Tamil Nadu,Asha,Cust231,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Distributor,115500.00,No
+9/25/2025,September,West,Maharashtra,Priya,Cust139,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Online,198000.00,No
+9/25/2025,September,South,Tamil Nadu,Rahul,Cust994,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+9/25/2025,September,North,Delhi,Vijay,Cust323,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Distributor,84700.00,No
+9/26/2025,September,North,Delhi,Arun,Cust242,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Retail,84700.00,No
+9/26/2025,September,South,Karnataka,Vijay,Cust536,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Online,66000.00,No
+9/26/2025,September,South,Tamil Nadu,Priya,Cust121,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Online,79200.00,No
+9/27/2025,September,North,Delhi,Priya,Cust491,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Retail,84700.00,No
+9/27/2025,September,West,Maharashtra,Neha,Cust457,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+9/27/2025,September,South,Karnataka,Priya,Cust909,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Retail,143000.00,No
+9/28/2025,September,East,West Bengal,Vijay,Cust772,Laptop,Electronics,7,65000.00,455000.00,364000.00,91000.00,Distributor,500500.00,No
+9/28/2025,September,West,Maharashtra,Karan,Cust274,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Distributor,165000.00,No
+9/28/2025,September,North,Delhi,Rahul,Cust638,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Online,132000.00,No
+9/29/2025,September,South,Tamil Nadu,Priya,Cust974,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Retail,82500.00,No
+9/29/2025,September,East,West Bengal,Asha,Cust875,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+9/29/2025,September,East,West Bengal,Asha,Cust465,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Retail,79200.00,Yes
+9/30/2025,September,East,West Bengal,Karan,Cust792,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Distributor,71500.00,No
+9/30/2025,September,South,Tamil Nadu,Vijay,Cust453,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Distributor,49500.00,No
+9/30/2025,September,West,Maharashtra,Arun,Cust285,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Retail,118800.00,No
+10/1/2025,October,North,Delhi,Priya,Cust252,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Distributor,357500.00,No
+10/1/2025,October,North,Delhi,Asha,Cust241,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Retail,715000.00,No
+10/1/2025,October,West,Maharashtra,Arun,Cust996,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Online,429000.00,No
+10/2/2025,October,South,Karnataka,Vijay,Cust749,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Retail,178200.00,No
+10/2/2025,October,West,Maharashtra,Asha,Cust925,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Retail,19800.00,No
+10/2/2025,October,West,Maharashtra,Meera,Cust660,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Distributor,49500.00,No
+10/3/2025,October,South,Karnataka,Rahul,Cust480,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Online,643500.00,No
+10/3/2025,October,South,Tamil Nadu,Asha,Cust244,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Retail,99000.00,No
+10/3/2025,October,South,Karnataka,Arun,Cust902,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Online,77000.00,No
+10/4/2025,October,South,Tamil Nadu,Priya,Cust784,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Online,99000.00,No
+10/4/2025,October,West,Maharashtra,Asha,Cust193,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Retail,214500.00,No
+10/4/2025,October,South,Tamil Nadu,Meera,Cust956,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Online,79200.00,No
+10/5/2025,October,North,Delhi,Karan,Cust558,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Retail,49500.00,No
+10/5/2025,October,West,Maharashtra,Rahul,Cust219,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Distributor,148500.00,No
+10/5/2025,October,South,Tamil Nadu,Priya,Cust268,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Online,132000.00,Yes
+10/6/2025,October,South,Karnataka,Asha,Cust897,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,No
+10/6/2025,October,East,West Bengal,Rahul,Cust388,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Distributor,132000.00,No
+10/6/2025,October,North,Delhi,Arun,Cust344,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Retail,79200.00,No
+10/7/2025,October,South,Tamil Nadu,Asha,Cust638,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Distributor,786500.00,No
+10/7/2025,October,West,Maharashtra,Karan,Cust144,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Distributor,118800.00,Yes
+10/7/2025,October,South,Tamil Nadu,Vijay,Cust804,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Retail,99000.00,No
+10/8/2025,October,North,Delhi,Rahul,Cust683,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Online,69300.00,No
+10/8/2025,October,West,Maharashtra,Karan,Cust999,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Online,165000.00,No
+10/8/2025,October,West,Maharashtra,Rahul,Cust923,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Retail,572000.00,No
+10/9/2025,October,East,West Bengal,Rahul,Cust108,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Distributor,39600.00,No
+10/9/2025,October,North,Delhi,Rahul,Cust316,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Distributor,61600.00,No
+10/9/2025,October,North,Delhi,Karan,Cust544,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Retail,77000.00,No
+10/10/2025,October,North,Delhi,Arun,Cust768,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Retail,138600.00,No
+10/10/2025,October,North,Delhi,Asha,Cust763,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Online,66000.00,No
+10/10/2025,October,East,West Bengal,Priya,Cust876,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Distributor,105600.00,No
+10/11/2025,October,East,West Bengal,Arun,Cust991,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Retail,715000.00,No
+10/11/2025,October,North,Delhi,Priya,Cust967,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+10/11/2025,October,East,West Bengal,Neha,Cust665,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+10/12/2025,October,West,Maharashtra,Asha,Cust867,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Retail,82500.00,No
+10/12/2025,October,West,Maharashtra,Arun,Cust970,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Online,84700.00,No
+10/12/2025,October,East,West Bengal,Meera,Cust435,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Online,52800.00,No
+10/13/2025,October,South,Tamil Nadu,Karan,Cust152,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Online,357500.00,No
+10/13/2025,October,South,Tamil Nadu,Priya,Cust598,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+10/13/2025,October,East,West Bengal,Meera,Cust595,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Distributor,79200.00,No
+10/14/2025,October,West,Maharashtra,Rahul,Cust696,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Online,13200.00,No
+10/14/2025,October,East,West Bengal,Asha,Cust407,Chair,Furniture,4,7000.00,28000.00,20000.00,8000.00,Distributor,30800.00,No
+10/14/2025,October,West,Maharashtra,Rahul,Cust769,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Distributor,39600.00,No
+10/15/2025,October,North,Delhi,Karan,Cust601,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Distributor,214500.00,No
+10/15/2025,October,South,Tamil Nadu,Meera,Cust293,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Online,33000.00,No
+10/15/2025,October,South,Karnataka,Arun,Cust931,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Retail,198000.00,No
+10/16/2025,October,North,Delhi,Arun,Cust575,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Retail,237600.00,No
+10/16/2025,October,North,Delhi,Asha,Cust287,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Distributor,99000.00,No
+10/16/2025,October,West,Maharashtra,Neha,Cust528,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Distributor,158400.00,No
+10/17/2025,October,West,Maharashtra,Neha,Cust966,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Distributor,237600.00,No
+10/17/2025,October,South,Karnataka,Asha,Cust813,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Retail,53900.00,No
+10/17/2025,October,East,West Bengal,Neha,Cust751,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Online,132000.00,Yes
+10/18/2025,October,West,Maharashtra,Rahul,Cust300,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Retail,118800.00,No
+10/18/2025,October,East,West Bengal,Karan,Cust514,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Retail,66000.00,No
+10/18/2025,October,South,Tamil Nadu,Asha,Cust781,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+10/19/2025,October,West,Maharashtra,Arun,Cust660,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Distributor,61600.00,No
+10/19/2025,October,South,Tamil Nadu,Priya,Cust651,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Retail,23100.00,No
+10/19/2025,October,South,Karnataka,Arun,Cust316,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Retail,357500.00,No
+10/20/2025,October,South,Karnataka,Karan,Cust550,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Retail,181500.00,No
+10/20/2025,October,North,Delhi,Priya,Cust763,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Distributor,148500.00,Yes
+10/20/2025,October,South,Karnataka,Vijay,Cust785,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Online,46200.00,No
+10/21/2025,October,East,West Bengal,Karan,Cust907,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Retail,46200.00,No
+10/21/2025,October,West,Maharashtra,Arun,Cust190,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Retail,115500.00,No
+10/21/2025,October,South,Karnataka,Arun,Cust631,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Online,572000.00,No
+10/22/2025,October,South,Karnataka,Asha,Cust840,Laptop,Electronics,12,65000.00,780000.00,624000.00,156000.00,Retail,858000.00,No
+10/22/2025,October,South,Tamil Nadu,Rahul,Cust192,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Retail,92400.00,No
+10/22/2025,October,East,West Bengal,Asha,Cust299,Printer,Electronics,7,18000.00,126000.00,101500.00,24500.00,Retail,138600.00,No
+10/23/2025,October,South,Tamil Nadu,Vijay,Cust761,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Retail,217800.00,No
+10/23/2025,October,North,Delhi,Meera,Cust949,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Retail,69300.00,No
+10/23/2025,October,South,Karnataka,Karan,Cust701,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Retail,118800.00,No
+10/24/2025,October,West,Maharashtra,Meera,Cust564,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Retail,178200.00,No
+10/24/2025,October,East,West Bengal,Priya,Cust718,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Retail,786500.00,No
+10/24/2025,October,West,Maharashtra,Rahul,Cust634,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+10/25/2025,October,East,West Bengal,Neha,Cust241,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Distributor,16500.00,No
+10/25/2025,October,South,Tamil Nadu,Karan,Cust314,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Retail,105600.00,No
+10/25/2025,October,South,Karnataka,Meera,Cust415,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Distributor,19800.00,No
+10/26/2025,October,South,Tamil Nadu,Arun,Cust553,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Distributor,79200.00,No
+10/26/2025,October,West,Maharashtra,Priya,Cust509,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Retail,429000.00,No
+10/26/2025,October,South,Tamil Nadu,Vijay,Cust249,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Retail,39600.00,No
+10/27/2025,October,East,West Bengal,Asha,Cust502,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Distributor,71500.00,No
+10/27/2025,October,North,Delhi,Neha,Cust401,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Retail,7700.00,No
+10/27/2025,October,South,Tamil Nadu,Arun,Cust635,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Distributor,286000.00,No
+10/28/2025,October,North,Delhi,Karan,Cust402,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Online,79200.00,No
+10/28/2025,October,South,Tamil Nadu,Karan,Cust353,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Retail,61600.00,No
+10/28/2025,October,North,Delhi,Meera,Cust435,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Retail,13200.00,No
+10/29/2025,October,East,West Bengal,Arun,Cust341,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Retail,181500.00,Yes
+10/29/2025,October,West,Maharashtra,Karan,Cust171,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Retail,79200.00,No
+10/29/2025,October,West,Maharashtra,Meera,Cust276,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Online,181500.00,No
+10/30/2025,October,North,Delhi,Meera,Cust798,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Retail,572000.00,No
+10/30/2025,October,South,Karnataka,Arun,Cust702,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Online,66000.00,Yes
+10/30/2025,October,East,West Bengal,Rahul,Cust500,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Online,39600.00,No
+10/31/2025,October,North,Delhi,Priya,Cust594,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Retail,77000.00,No
+10/31/2025,October,North,Delhi,Arun,Cust660,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Retail,92400.00,No
+10/31/2025,October,North,Delhi,Arun,Cust855,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Online,79200.00,No
+11/1/2025,November,South,Karnataka,Karan,Cust328,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Online,643500.00,No
+11/1/2025,November,South,Karnataka,Rahul,Cust301,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Retail,84700.00,No
+11/1/2025,November,West,Maharashtra,Vijay,Cust497,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Online,38500.00,No
+11/2/2025,November,South,Tamil Nadu,Priya,Cust797,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+11/2/2025,November,West,Maharashtra,Asha,Cust730,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Retail,19800.00,No
+11/2/2025,November,South,Karnataka,Arun,Cust224,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Distributor,79200.00,No
+11/3/2025,November,East,West Bengal,Neha,Cust970,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Online,148500.00,No
+11/3/2025,November,South,Tamil Nadu,Priya,Cust917,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+11/3/2025,November,South,Karnataka,Rahul,Cust424,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Distributor,132000.00,No
+11/4/2025,November,West,Maharashtra,Rahul,Cust315,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Online,145200.00,No
+11/4/2025,November,West,Maharashtra,Rahul,Cust663,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Distributor,92400.00,No
+11/4/2025,November,South,Karnataka,Vijay,Cust830,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Online,52800.00,No
+11/5/2025,November,North,Delhi,Asha,Cust377,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Distributor,99000.00,No
+11/5/2025,November,South,Tamil Nadu,Arun,Cust448,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Online,13200.00,No
+11/5/2025,November,South,Tamil Nadu,Priya,Cust566,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,No
+11/6/2025,November,South,Karnataka,Asha,Cust924,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Online,99000.00,No
+11/6/2025,November,South,Karnataka,Neha,Cust849,Monitor,Electronics,8,15000.00,120000.00,88000.00,32000.00,Retail,132000.00,No
+11/6/2025,November,South,Tamil Nadu,Priya,Cust888,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Distributor,53900.00,No
+11/7/2025,November,East,West Bengal,Neha,Cust486,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Online,69300.00,No
+11/7/2025,November,West,Maharashtra,Priya,Cust185,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Online,158400.00,No
+11/7/2025,November,North,Delhi,Vijay,Cust427,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Online,132000.00,No
+11/8/2025,November,West,Maharashtra,Meera,Cust654,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Retail,118800.00,No
+11/8/2025,November,East,West Bengal,Vijay,Cust792,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Distributor,148500.00,No
+11/8/2025,November,North,Delhi,Asha,Cust426,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Online,148500.00,No
+11/9/2025,November,South,Tamil Nadu,Rahul,Cust984,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Retail,132000.00,No
+11/9/2025,November,West,Maharashtra,Neha,Cust517,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Distributor,59400.00,No
+11/9/2025,November,East,West Bengal,Rahul,Cust576,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Retail,132000.00,No
+11/10/2025,November,North,Delhi,Rahul,Cust290,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Distributor,429000.00,No
+11/10/2025,November,South,Tamil Nadu,Meera,Cust545,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Online,13200.00,No
+11/10/2025,November,North,Delhi,Neha,Cust759,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Online,357500.00,No
+11/11/2025,November,South,Karnataka,Vijay,Cust138,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Distributor,15400.00,No
+11/11/2025,November,South,Tamil Nadu,Priya,Cust986,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Retail,61600.00,No
+11/11/2025,November,North,Delhi,Arun,Cust562,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Retail,429000.00,No
+11/12/2025,November,South,Karnataka,Meera,Cust270,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Online,52800.00,No
+11/12/2025,November,North,Delhi,Arun,Cust356,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+11/12/2025,November,South,Karnataka,Arun,Cust676,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Online,33000.00,No
+11/13/2025,November,South,Tamil Nadu,Neha,Cust556,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Online,165000.00,No
+11/13/2025,November,West,Maharashtra,Asha,Cust884,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+11/13/2025,November,North,Delhi,Arun,Cust425,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Retail,118800.00,No
+11/14/2025,November,South,Tamil Nadu,Rahul,Cust310,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Retail,61600.00,No
+11/14/2025,November,South,Tamil Nadu,Karan,Cust395,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Distributor,237600.00,No
+11/14/2025,November,East,West Bengal,Priya,Cust406,Laptop,Electronics,1,65000.00,65000.00,52000.00,13000.00,Distributor,71500.00,No
+11/15/2025,November,East,West Bengal,Rahul,Cust353,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Retail,148500.00,No
+11/15/2025,November,South,Karnataka,Karan,Cust238,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+11/15/2025,November,East,West Bengal,Karan,Cust460,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Online,181500.00,No
+11/16/2025,November,East,West Bengal,Rahul,Cust221,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Retail,99000.00,No
+11/16/2025,November,West,Maharashtra,Rahul,Cust839,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Online,92400.00,No
+11/16/2025,November,North,Delhi,Rahul,Cust888,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,No
+11/17/2025,November,South,Karnataka,Karan,Cust238,Desk,Furniture,5,12000.00,60000.00,45000.00,15000.00,Online,66000.00,No
+11/17/2025,November,North,Delhi,Priya,Cust252,Chair,Furniture,5,7000.00,35000.00,25000.00,10000.00,Retail,38500.00,No
+11/17/2025,November,North,Delhi,Meera,Cust597,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Distributor,33000.00,No
+11/18/2025,November,West,Maharashtra,Priya,Cust320,Printer,Electronics,5,18000.00,90000.00,72500.00,17500.00,Retail,99000.00,No
+11/18/2025,November,South,Tamil Nadu,Asha,Cust516,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Retail,7700.00,No
+11/18/2025,November,South,Karnataka,Karan,Cust490,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Online,178200.00,No
+11/19/2025,November,South,Tamil Nadu,Rahul,Cust527,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Retail,357500.00,No
+11/19/2025,November,West,Maharashtra,Arun,Cust102,Laptop,Electronics,8,65000.00,520000.00,416000.00,104000.00,Distributor,572000.00,No
+11/19/2025,November,West,Maharashtra,Rahul,Cust733,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Retail,39600.00,No
+11/20/2025,November,East,West Bengal,Asha,Cust520,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Distributor,115500.00,No
+11/20/2025,November,North,Delhi,Vijay,Cust673,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Online,158400.00,No
+11/20/2025,November,South,Karnataka,Meera,Cust621,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Distributor,118800.00,No
+11/21/2025,November,South,Karnataka,Arun,Cust623,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Retail,26400.00,No
+11/21/2025,November,East,West Bengal,Rahul,Cust746,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Distributor,198000.00,No
+11/21/2025,November,South,Karnataka,Arun,Cust897,Laptop,Electronics,3,65000.00,195000.00,156000.00,39000.00,Online,214500.00,No
+11/22/2025,November,East,West Bengal,Vijay,Cust478,Desk,Furniture,11,12000.00,132000.00,99000.00,33000.00,Retail,145200.00,No
+11/22/2025,November,South,Karnataka,Arun,Cust984,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Online,49500.00,No
+11/22/2025,November,West,Maharashtra,Karan,Cust987,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Online,46200.00,No
+11/23/2025,November,North,Delhi,Vijay,Cust228,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Retail,23100.00,No
+11/23/2025,November,East,West Bengal,Meera,Cust372,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Online,92400.00,Yes
+11/23/2025,November,South,Karnataka,Arun,Cust562,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Distributor,118800.00,No
+11/24/2025,November,South,Tamil Nadu,Asha,Cust768,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,No
+11/24/2025,November,South,Tamil Nadu,Priya,Cust116,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Distributor,33000.00,No
+11/24/2025,November,South,Tamil Nadu,Rahul,Cust907,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Distributor,105600.00,No
+11/25/2025,November,South,Tamil Nadu,Rahul,Cust692,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Retail,52800.00,No
+11/25/2025,November,East,West Bengal,Karan,Cust921,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Distributor,77000.00,No
+11/25/2025,November,West,Maharashtra,Meera,Cust125,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Distributor,429000.00,No
+11/26/2025,November,South,Tamil Nadu,Neha,Cust713,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Online,115500.00,No
+11/26/2025,November,North,Delhi,Vijay,Cust792,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Retail,148500.00,No
+11/26/2025,November,South,Tamil Nadu,Neha,Cust348,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Distributor,92400.00,No
+11/27/2025,November,South,Karnataka,Priya,Cust610,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Online,786500.00,No
+11/27/2025,November,South,Karnataka,Neha,Cust818,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Retail,16500.00,No
+11/27/2025,November,East,West Bengal,Arun,Cust171,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Distributor,148500.00,No
+11/28/2025,November,South,Karnataka,Priya,Cust768,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Online,198000.00,No
+11/28/2025,November,West,Maharashtra,Arun,Cust384,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Distributor,198000.00,No
+11/28/2025,November,South,Tamil Nadu,Asha,Cust328,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Retail,198000.00,No
+11/29/2025,November,South,Tamil Nadu,Vijay,Cust944,Printer,Electronics,11,18000.00,198000.00,159500.00,38500.00,Distributor,217800.00,No
+11/29/2025,November,East,West Bengal,Karan,Cust512,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Retail,132000.00,No
+11/29/2025,November,North,Delhi,Priya,Cust133,Monitor,Electronics,5,15000.00,75000.00,55000.00,20000.00,Retail,82500.00,No
+11/30/2025,November,North,Delhi,Rahul,Cust896,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Distributor,59400.00,No
+11/30/2025,November,East,West Bengal,Meera,Cust247,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Retail,49500.00,No
+11/30/2025,November,North,Delhi,Vijay,Cust881,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Retail,16500.00,No
+12/1/2025,December,East,West Bengal,Meera,Cust839,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Online,158400.00,No
+12/1/2025,December,South,Tamil Nadu,Asha,Cust337,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Retail,39600.00,No
+12/1/2025,December,West,Maharashtra,Karan,Cust787,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Distributor,118800.00,Yes
+12/2/2025,December,West,Maharashtra,Neha,Cust843,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Online,52800.00,No
+12/2/2025,December,South,Tamil Nadu,Karan,Cust953,Chair,Furniture,9,7000.00,63000.00,45000.00,18000.00,Retail,69300.00,No
+12/2/2025,December,West,Maharashtra,Asha,Cust289,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Online,357500.00,No
+12/3/2025,December,South,Karnataka,Asha,Cust811,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Retail,105600.00,Yes
+12/3/2025,December,North,Delhi,Priya,Cust730,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Online,77000.00,No
+12/3/2025,December,East,West Bengal,Vijay,Cust699,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Distributor,92400.00,No
+12/4/2025,December,North,Delhi,Karan,Cust330,Printer,Electronics,6,18000.00,108000.00,87000.00,21000.00,Online,118800.00,No
+12/4/2025,December,West,Maharashtra,Arun,Cust202,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Distributor,84700.00,No
+12/4/2025,December,South,Tamil Nadu,Priya,Cust285,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Distributor,46200.00,No
+12/5/2025,December,East,West Bengal,Priya,Cust745,Desk,Furniture,9,12000.00,108000.00,81000.00,27000.00,Online,118800.00,No
+12/5/2025,December,South,Tamil Nadu,Arun,Cust712,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Distributor,15400.00,No
+12/5/2025,December,West,Maharashtra,Karan,Cust965,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Distributor,46200.00,No
+12/6/2025,December,West,Maharashtra,Asha,Cust506,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Retail,79200.00,No
+12/6/2025,December,South,Tamil Nadu,Asha,Cust604,Desk,Furniture,3,12000.00,36000.00,27000.00,9000.00,Online,39600.00,No
+12/6/2025,December,North,Delhi,Vijay,Cust755,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Online,84700.00,No
+12/7/2025,December,West,Maharashtra,Arun,Cust315,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Online,79200.00,No
+12/7/2025,December,South,Tamil Nadu,Karan,Cust158,Printer,Electronics,12,18000.00,216000.00,174000.00,42000.00,Retail,237600.00,No
+12/7/2025,December,South,Tamil Nadu,Karan,Cust456,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Retail,33000.00,No
+12/8/2025,December,East,West Bengal,Meera,Cust132,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Online,77000.00,No
+12/8/2025,December,East,West Bengal,Meera,Cust335,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Retail,79200.00,No
+12/8/2025,December,North,Delhi,Arun,Cust751,Chair,Furniture,1,7000.00,7000.00,5000.00,2000.00,Online,7700.00,No
+12/9/2025,December,South,Karnataka,Neha,Cust940,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Online,357500.00,No
+12/9/2025,December,South,Tamil Nadu,Rahul,Cust302,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Retail,79200.00,No
+12/9/2025,December,East,West Bengal,Meera,Cust601,Chair,Furniture,7,7000.00,49000.00,35000.00,14000.00,Online,53900.00,No
+12/10/2025,December,North,Delhi,Rahul,Cust104,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Distributor,143000.00,No
+12/10/2025,December,South,Karnataka,Meera,Cust653,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Retail,357500.00,No
+12/10/2025,December,East,West Bengal,Karan,Cust439,Chair,Furniture,11,7000.00,77000.00,55000.00,22000.00,Online,84700.00,No
+12/11/2025,December,West,Maharashtra,Priya,Cust963,Monitor,Electronics,4,15000.00,60000.00,44000.00,16000.00,Online,66000.00,No
+12/11/2025,December,South,Karnataka,Priya,Cust510,Monitor,Electronics,3,15000.00,45000.00,33000.00,12000.00,Online,49500.00,No
+12/11/2025,December,South,Karnataka,Priya,Cust706,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,No
+12/12/2025,December,West,Maharashtra,Neha,Cust145,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Online,99000.00,No
+12/12/2025,December,North,Delhi,Vijay,Cust645,Desk,Furniture,10,12000.00,120000.00,90000.00,30000.00,Retail,132000.00,No
+12/12/2025,December,North,Delhi,Neha,Cust899,Desk,Furniture,12,12000.00,144000.00,108000.00,36000.00,Retail,158400.00,No
+12/13/2025,December,South,Karnataka,Priya,Cust742,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Online,26400.00,No
+12/13/2025,December,West,Maharashtra,Rahul,Cust862,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Retail,429000.00,No
+12/13/2025,December,South,Karnataka,Neha,Cust263,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Retail,786500.00,No
+12/14/2025,December,North,Delhi,Asha,Cust118,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Online,143000.00,No
+12/14/2025,December,North,Delhi,Neha,Cust170,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Distributor,61600.00,No
+12/14/2025,December,West,Maharashtra,Arun,Cust270,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Retail,143000.00,No
+12/15/2025,December,South,Tamil Nadu,Meera,Cust551,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Retail,77000.00,No
+12/15/2025,December,West,Maharashtra,Arun,Cust172,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Online,52800.00,No
+12/15/2025,December,North,Delhi,Rahul,Cust285,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Retail,148500.00,No
+12/16/2025,December,East,West Bengal,Karan,Cust774,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Distributor,59400.00,No
+12/16/2025,December,South,Tamil Nadu,Meera,Cust337,Monitor,Electronics,9,15000.00,135000.00,99000.00,36000.00,Online,148500.00,No
+12/16/2025,December,East,West Bengal,Vijay,Cust197,Laptop,Electronics,5,65000.00,325000.00,260000.00,65000.00,Retail,357500.00,No
+12/17/2025,December,West,Maharashtra,Karan,Cust651,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Online,39600.00,No
+12/17/2025,December,South,Tamil Nadu,Neha,Cust761,Chair,Furniture,8,7000.00,56000.00,40000.00,16000.00,Distributor,61600.00,No
+12/17/2025,December,South,Tamil Nadu,Meera,Cust821,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Retail,26400.00,No
+12/18/2025,December,South,Karnataka,Asha,Cust199,Desk,Furniture,6,12000.00,72000.00,54000.00,18000.00,Online,79200.00,No
+12/18/2025,December,South,Tamil Nadu,Asha,Cust653,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Online,77000.00,No
+12/18/2025,December,North,Delhi,Karan,Cust715,Printer,Electronics,4,18000.00,72000.00,58000.00,14000.00,Distributor,79200.00,No
+12/19/2025,December,West,Maharashtra,Karan,Cust675,Monitor,Electronics,12,15000.00,180000.00,132000.00,48000.00,Retail,198000.00,Yes
+12/19/2025,December,North,Delhi,Karan,Cust808,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Online,286000.00,Yes
+12/19/2025,December,North,Delhi,Priya,Cust434,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Online,46200.00,No
+12/20/2025,December,West,Maharashtra,Neha,Cust730,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Retail,715000.00,Yes
+12/20/2025,December,East,West Bengal,Vijay,Cust133,Chair,Furniture,12,7000.00,84000.00,60000.00,24000.00,Distributor,92400.00,No
+12/20/2025,December,South,Karnataka,Vijay,Cust916,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Online,165000.00,No
+12/21/2025,December,South,Tamil Nadu,Asha,Cust244,Monitor,Electronics,1,15000.00,15000.00,11000.00,4000.00,Retail,16500.00,No
+12/21/2025,December,North,Delhi,Neha,Cust784,Monitor,Electronics,6,15000.00,90000.00,66000.00,24000.00,Retail,99000.00,No
+12/21/2025,December,North,Delhi,Arun,Cust871,Laptop,Electronics,10,65000.00,650000.00,520000.00,130000.00,Online,715000.00,No
+12/22/2025,December,South,Tamil Nadu,Asha,Cust880,Laptop,Electronics,4,65000.00,260000.00,208000.00,52000.00,Retail,286000.00,No
+12/22/2025,December,East,West Bengal,Priya,Cust279,Printer,Electronics,1,18000.00,18000.00,14500.00,3500.00,Distributor,19800.00,No
+12/22/2025,December,East,West Bengal,Arun,Cust450,Printer,Electronics,8,18000.00,144000.00,116000.00,28000.00,Online,158400.00,No
+12/23/2025,December,West,Maharashtra,Meera,Cust231,Printer,Electronics,3,18000.00,54000.00,43500.00,10500.00,Distributor,59400.00,No
+12/23/2025,December,West,Maharashtra,Rahul,Cust454,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Distributor,92400.00,No
+12/23/2025,December,West,Maharashtra,Neha,Cust355,Printer,Electronics,2,18000.00,36000.00,29000.00,7000.00,Retail,39600.00,No
+12/24/2025,December,South,Tamil Nadu,Vijay,Cust185,Monitor,Electronics,11,15000.00,165000.00,121000.00,44000.00,Distributor,181500.00,No
+12/24/2025,December,West,Maharashtra,Rahul,Cust240,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Distributor,786500.00,No
+12/24/2025,December,East,West Bengal,Meera,Cust565,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Online,33000.00,No
+12/25/2025,December,North,Delhi,Karan,Cust699,Printer,Electronics,10,18000.00,180000.00,145000.00,35000.00,Online,198000.00,No
+12/25/2025,December,North,Delhi,Neha,Cust686,Monitor,Electronics,7,15000.00,105000.00,77000.00,28000.00,Distributor,115500.00,No
+12/25/2025,December,East,West Bengal,Rahul,Cust724,Chair,Furniture,6,7000.00,42000.00,30000.00,12000.00,Retail,46200.00,Yes
+12/26/2025,December,South,Tamil Nadu,Asha,Cust826,Desk,Furniture,8,12000.00,96000.00,72000.00,24000.00,Online,105600.00,No
+12/26/2025,December,East,West Bengal,Neha,Cust109,Desk,Furniture,7,12000.00,84000.00,63000.00,21000.00,Distributor,92400.00,No
+12/26/2025,December,East,West Bengal,Rahul,Cust877,Printer,Electronics,9,18000.00,162000.00,130500.00,31500.00,Online,178200.00,No
+12/27/2025,December,North,Delhi,Asha,Cust608,Desk,Furniture,1,12000.00,12000.00,9000.00,3000.00,Retail,13200.00,No
+12/27/2025,December,West,Maharashtra,Rahul,Cust998,Laptop,Electronics,9,65000.00,585000.00,468000.00,117000.00,Online,643500.00,No
+12/27/2025,December,South,Karnataka,Karan,Cust234,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Online,15400.00,No
+12/28/2025,December,West,Maharashtra,Rahul,Cust501,Monitor,Electronics,10,15000.00,150000.00,110000.00,40000.00,Distributor,165000.00,No
+12/28/2025,December,South,Tamil Nadu,Neha,Cust400,Laptop,Electronics,6,65000.00,390000.00,312000.00,78000.00,Retail,429000.00,No
+12/28/2025,December,West,Maharashtra,Arun,Cust804,Laptop,Electronics,11,65000.00,715000.00,572000.00,143000.00,Distributor,786500.00,No
+12/29/2025,December,South,Karnataka,Asha,Cust812,Chair,Furniture,10,7000.00,70000.00,50000.00,20000.00,Online,77000.00,No
+12/29/2025,December,South,Tamil Nadu,Meera,Cust596,Laptop,Electronics,2,65000.00,130000.00,104000.00,26000.00,Retail,143000.00,No
+12/29/2025,December,West,Maharashtra,Arun,Cust739,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Distributor,23100.00,Yes
+12/30/2025,December,South,Karnataka,Asha,Cust984,Chair,Furniture,3,7000.00,21000.00,15000.00,6000.00,Online,23100.00,No
+12/30/2025,December,South,Tamil Nadu,Priya,Cust259,Chair,Furniture,2,7000.00,14000.00,10000.00,4000.00,Distributor,15400.00,No
+12/30/2025,December,West,Maharashtra,Meera,Cust611,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Distributor,52800.00,No
+12/31/2025,December,West,Maharashtra,Vijay,Cust378,Desk,Furniture,4,12000.00,48000.00,36000.00,12000.00,Retail,52800.00,No
+12/31/2025,December,West,Maharashtra,Rahul,Cust977,Desk,Furniture,2,12000.00,24000.00,18000.00,6000.00,Distributor,26400.00,No
+12/31/2025,December,North,Delhi,Rahul,Cust892,Monitor,Electronics,2,15000.00,30000.00,22000.00,8000.00,Distributor,33000.00,No
